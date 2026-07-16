@@ -1,0 +1,276 @@
+brand,product_count,amazon_count,flipkart_count,platform_presence
+,16,5,11,both
+POCO,14,2,12,both
+Samsung Galaxy,12,11,1,both
+MOTOROLA,12,0,12,flipkart
+ASUS Vivobook,11,7,4,both
+HP,9,5,4,both
+Acer Aspire,9,1,8,both
+realme,8,2,6,both
+boAt Rockerz,8,2,6,both
+VW,7,7,0,amazon
+Samsung,6,3,3,both
+F FERONS,6,0,6,flipkart
+REDMI,5,3,2,both
+Lenovo,5,2,3,both
+iQOO,5,5,0,amazon
+GOBOULT Fluid,5,1,4,both
+Lenovo IdeaPad,5,3,2,both
+vivo,5,1,4,both
+Dot &,5,3,2,both
+Boat Rockerz,4,4,0,amazon
+Sony,4,4,0,amazon
+OnePlus Nord,4,1,3,both
+MOTOROLA Edge,4,0,4,flipkart
+Foxsky,4,0,4,flipkart
+realme TechLife,4,0,4,flipkart
+ASUS Expertbook,3,0,3,flipkart
+ASUS Chromebook,3,0,3,flipkart
+realme NARZO,3,3,0,amazon
+Dr Sheth’s,3,0,3,flipkart
+Foxtale Nourishing,3,1,2,both
+PTron Studio,3,0,3,flipkart
+TCL,3,1,2,both
+Xiaomi,3,3,0,amazon
+pTron Studio,2,2,0,amazon
+ASUS ExpertBook,2,0,2,flipkart
+Lenovo Chromebook,2,0,2,flipkart
+Infinix,2,0,2,flipkart
+HP Victus,2,1,1,both
+HP Professional,2,2,0,amazon
+JBL Tune,2,2,0,amazon
+Lakmé Peach,2,0,2,flipkart
+MYOZ,2,0,2,flipkart
+Mamaearth Daily,2,0,2,flipkart
+Glamour World,2,0,2,flipkart
+FRONY,2,0,2,flipkart
+Ai+ Pulse,2,0,2,flipkart
+RUSHITA,2,0,2,flipkart
+Philips,2,2,0,amazon
+Dr Reddy's,2,0,2,flipkart
+Dell,2,2,0,amazon
+Acer Smartchoice,2,2,0,amazon
+OPPO,2,1,1,both
+Uniboom_Optima Series,2,2,0,amazon
+XIAOMI,2,0,2,flipkart
+SRE Premium,2,0,2,flipkart
+Ruby Perl,2,0,2,flipkart
+Techpunch,2,0,2,flipkart
+Ridoy soothing,2,0,2,flipkart
+Sansui,2,0,2,flipkart
+Minimalist Barrier,2,2,0,amazon
+Plum Green,2,1,1,both
+ZEBRONICS Zeb-Thunder,2,0,2,flipkart
+VW OptimaX,2,0,2,flipkart
+chapo,2,0,2,flipkart
+Zebronics Thunder,2,2,0,amazon
+ZEBRONICS Thunder,2,1,1,both
+BESTON,2,0,2,flipkart
+Samsung Crystal,2,0,2,flipkart
+kridhrish Metal,1,0,1,flipkart
+CeraVe Moisturizers,1,1,0,amazon
+CeraVe HA,1,1,0,amazon
+Episoft AC,1,1,0,amazon
+Enacfire,1,0,1,flipkart
+FEEDNIX cut,1,0,1,flipkart
+Casecade Folding,1,0,1,flipkart
+Element Multi,1,0,1,flipkart
+Eagean,1,0,1,flipkart
+ramakrishnavan Perfect,1,0,1,flipkart
+Acer,1,1,0,amazon
+Youth Face,1,0,1,flipkart
+ASUS TUF,1,1,0,amazon
+Akai AKAI,1,0,1,flipkart
+AQUASOFT DAY,1,0,1,flipkart
+Dr Sheth's,1,1,0,amazon
+Ceramide &,1,1,0,amazon
+Certified,1,1,0,amazon
+Chemist at,1,0,1,flipkart
+Coocaa,1,0,1,flipkart
+Clairbell,1,0,1,flipkart
+Cookzella Oil,1,0,1,flipkart
+D-players,1,0,1,flipkart
+Dermatouch Ceramide,1,0,1,flipkart
+DAOME,1,0,1,flipkart
+Deconstruct Oil-Free,1,1,0,amazon
+Foxtale Brightening,1,0,1,flipkart
+Foxtale Oil-Balancing,1,1,0,amazon
+Foxtale Super,1,0,1,flipkart
+Flipkart SmartBuy,1,0,1,flipkart
+HOPPUP,1,0,1,flipkart
+Joy Honey,1,0,1,flipkart
+Joy Pure,1,0,1,flipkart
+Faya Ceramic,1,0,1,flipkart
+Fixderma Foot,1,0,1,flipkart
+I Kall,1,0,1,flipkart
+Haier,1,1,0,amazon
+HYPHEN,1,0,1,flipkart
+Infinix GT,1,0,1,flipkart
+HP Smartchoice,1,1,0,amazon
+HP OmniBook,1,1,0,amazon
+HP OMEN,1,0,1,flipkart
+HP MSO,1,0,1,flipkart
+GENZEE,1,0,1,flipkart
+Frontech Earphone,1,0,1,flipkart
+Glamveda Korean,1,1,0,amazon
+Garnier Fresh,1,1,0,amazon
+Livvouge Flour,1,0,1,flipkart
+Logitech,1,1,0,amazon
+Logitech Zone,1,1,0,amazon
+HP Intel,1,0,1,flipkart
+Lacto Calamine,1,0,1,flipkart
+LUZAX Coconut,1,0,1,flipkart
+Lishonn,1,0,1,flipkart
+Lava Bold,1,1,0,amazon
+Kodak QLED,1,1,0,amazon
+Just Herbs,1,0,1,flipkart
+EARBUDDY SnapX,1,0,1,flipkart
+EBook,1,1,0,amazon
+EAGLESQUAD AeroPulse,1,0,1,flipkart
+Dynore,1,0,1,flipkart
+Emolene,1,1,0,amazon
+Excela Oily,1,0,1,flipkart
+Apple iPhone,1,0,1,flipkart
+Aqualogica Barrier+,1,0,1,flipkart
+Digimore,1,0,1,flipkart
+Apple,1,1,0,amazon
+Deconstruct Vitamin,1,0,1,flipkart
+Ying Guns,1,0,1,flipkart
+APES Zen,1,0,1,flipkart
+ZEBRONICS Bro,1,1,0,amazon
+truke Aura,1,0,1,flipkart
+AJDK MART,1,0,1,flipkart
+sandook Roasting,1,0,1,flipkart
+skinclinic STRETCH,1,0,1,flipkart
+realme narzo,1,1,0,amazon
+Acer One,1,0,1,flipkart
+AKANSHA Sukhparash,1,0,1,flipkart
+chapo Full,1,0,1,flipkart
+Neutriderm Moisturising,1,0,1,flipkart
+Neutrogena Hydro,1,1,0,amazon
+Noise Two,1,1,0,amazon
+NowExp Silicon,1,0,1,flipkart
+OGGN Set,1,0,1,flipkart
+OMORTEX,1,0,1,flipkart
+OMORTEX Combo,1,0,1,flipkart
+M Y,1,0,1,flipkart
+MISHTINCREATION Multifunctional,1,0,1,flipkart
+MONk,1,0,1,flipkart
+MSI Modern,1,0,1,flipkart
+Mamaearth Night,1,0,1,flipkart
+Mamaearth Tea,1,0,1,flipkart
+Mamaearth Rice,1,1,0,amazon
+MarQ,1,0,1,flipkart
+Mamaearth Ubtan,1,0,1,flipkart
+LG,1,1,0,amazon
+LUNATIC CRAFTWORK,1,0,1,flipkart
+Marshall Major,1,1,0,amazon
+Mass Pro,1,0,1,flipkart
+MasterGogo Bullets,1,0,1,flipkart
+Joy Skin,1,0,1,flipkart
+OMORTEX masher,1,0,1,flipkart
+OnePlus,1,1,0,amazon
+PERSONAL TOUCH,1,0,1,flipkart
+PRIVATE CAVE,1,0,1,flipkart
+Onida,1,1,0,amazon
+Ovista WIRED,1,0,1,flipkart
+OnePlus Bullets,1,1,0,amazon
+Missha TIME,1,0,1,flipkart
+Moiz Daily,1,0,1,flipkart
+NIVEA Cocoa,1,0,1,flipkart
+PunnkFunnk,1,0,1,flipkart
+PunnkFunnk Super,1,0,1,flipkart
+Pure Origin,1,1,0,amazon
+Pyarana Straws,1,0,1,flipkart
+R.O.A SKINCARE,1,1,0,amazon
+RE' EQUIL,1,1,0,amazon
+Re'equil CERAMIDE,1,0,1,flipkart
+Re'equil OIL,1,0,1,flipkart
+ShopVee Air,1,0,1,flipkart
+Simple Hydrating,1,1,0,amazon
+Pilgrim Retinol,1,0,1,flipkart
+Plum,1,0,1,flipkart
+Samsung Vision,1,0,1,flipkart
+Primebook,1,0,1,flipkart
+Portronics Muffs,1,1,0,amazon
+Pond's Super,1,1,0,amazon
+SANCORP,1,0,1,flipkart
+SONY,1,0,1,flipkart
+SPACE Vegetable,1,0,1,flipkart
+Rosebee Collapsible,1,0,1,flipkart
+Rhydin,1,0,1,flipkart
+Techobucks Brand,1,0,1,flipkart
+Techobucks,1,0,1,flipkart
+Ovista,1,0,1,flipkart
+Minimalist Marula,1,1,0,amazon
+Minimalist Vitamin,1,1,0,amazon
+Pilgrim Korean,1,1,0,amazon
+Minimalist,1,0,1,flipkart
+Pilgrim,1,0,1,flipkart
+Parasoft Moisturizing,1,1,0,amazon
+NANMOKU Primium,1,0,1,flipkart
+NIVEA Body,1,0,1,flipkart
+Skyplex Chopper,1,0,1,flipkart
+Sony ULT,1,1,0,amazon
+Sony ZX,1,1,0,amazon
+Spigen Audio,1,1,0,amazon
+SpinBot,1,0,1,flipkart
+SpinBot BattleBudz,1,0,1,flipkart
+TCL TCL,1,0,1,flipkart
+TTDC,1,0,1,flipkart
+RoyEnterprise Kitchen,1,0,1,flipkart
+VEDRID,1,0,1,flipkart
+Unique Impex,1,0,1,flipkart
+Unix Wireless,1,0,1,flipkart
+VEWIKZY Face,1,0,1,flipkart
+Skinbless Cream,1,0,1,flipkart
+Simple Kind,1,0,1,flipkart
+Simple Water,1,0,1,flipkart
+Thomson Phoenix,1,0,1,flipkart
+Treadmill SPORTS,1,0,1,flipkart
+Treadmill Sport,1,0,1,flipkart
+Thomson,1,0,1,flipkart
+YAROH Premium,1,0,1,flipkart
+Techpunch COMFORTABLE,1,0,1,flipkart
+YAROH,1,0,1,flipkart
+Tesla exim,1,0,1,flipkart
+XIAOMI FX,1,0,1,flipkart
+Worricow,1,0,1,flipkart
+Vu,1,1,0,amazon
+URBANHUDA Premium,1,0,1,flipkart
+UNDERATED Glow,1,0,1,flipkart
+VEKIN Headphone,1,0,1,flipkart
+VEKIN HIGH,1,0,1,flipkart
+VIJAY EXPORT,1,0,1,flipkart
+Vellora Creation,1,0,1,flipkart
+Veloxi EXIM,1,0,1,flipkart
+Vitamin C,1,1,0,amazon
+Vrukie Aluminum,1,0,1,flipkart
+Wireless Bluetooth,1,1,0,amazon
+AMB Basin,1,0,1,flipkart
+ACNE OC,1,0,1,flipkart
+AKHAND ENTERPRISE,1,0,1,flipkart
+Bekner,1,0,1,flipkart
+Balaji flame,1,0,1,flipkart
+BLACK+DECKER,1,1,0,amazon
+BUFONA High,1,0,1,flipkart
+Bush,1,0,1,flipkart
+BrowseBook,1,1,0,amazon
+Boat Bassheads,1,1,0,amazon
+CEUTA Vegetable,1,0,1,flipkart
+VW Nano,1,0,1,flipkart
+Aric Chicken,1,0,1,flipkart
+BELLAVITA DATE,1,0,1,flipkart
+BIOTIQUE Morning,1,0,1,flipkart
+boAt Bassheads,1,1,0,amazon
+acerpure Nitro,1,0,1,flipkart
+ABMP Honeycomb,1,0,1,flipkart
+VSK,1,1,0,amazon
+ZORIADA,1,0,1,flipkart
+Zebronics Jet,1,1,0,amazon
+ZEBRONICS Zeb-Storm,1,0,1,flipkart
+ZIRAK Premium,1,0,1,flipkart
+ZEBRONICS Zeb-Duke,1,0,1,flipkart
+iFFALCON,1,0,1,flipkart
+cotaryl Cream,1,0,1,flipkart
+coocaa,1,1,0,amazon

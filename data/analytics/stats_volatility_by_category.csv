@@ -1,0 +1,7 @@
+category,mean_price,std_price,product_count,coefficient_of_variation
+headphones,1444.59,2234.31,95,1.547
+kitchen_tools,191.59,109.1,66,0.569
+laptops,51985.4,22166.14,70,0.426
+moisturizer,398.95,328.23,102,0.823
+smart_tv,24172.55,20702.74,65,0.856
+smartphones,19187.08,10619.45,80,0.553

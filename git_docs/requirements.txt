@@ -1,0 +1,15 @@
+pandas
+numpy
+sqlite3
+sqlalchemy
+requests
+beautifulsoup4
+selenium
+scikit-learn
+rapidfuzz
+matplotlib
+seaborn
+plotly
+streamlit
+jupyter
+pytest

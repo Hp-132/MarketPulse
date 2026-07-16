@@ -1,0 +1,479 @@
+product_id,source,product_name,brand,category,current_price,price_label
+1,flipkart,Pyarana Straws for Drinking with Brushes (4 Bent + 4 Straight + 2 Brushes) Kitchen Tool Set,Pyarana Straws,kitchen_tools,104.0,budget
+2,flipkart,CEUTA Vegetable and Meat cleaver knife (pack of 1) Kitchen Tool Set,CEUTA Vegetable,kitchen_tools,248.0,premium
+3,flipkart,FEEDNIX cut n wash chopping board Plastic Cutting Board Kitchen Tool Set,FEEDNIX cut,kitchen_tools,135.0,budget
+4,flipkart,Skyplex Chopper & Peeler Combo Kitchen Tool Set,Skyplex Chopper,kitchen_tools,138.0,mid-range
+5,flipkart,chapo 23585645 Kitchen Tool Set,chapo,kitchen_tools,158.0,mid-range
+6,flipkart,"Q7 BRAND Printed SS Ultra Sharp Butcher, Meat, Pairing, Vegetable for Kitchen Kitchen Tool Set",,kitchen_tools,200.0,premium
+7,flipkart,"Rosebee Collapsible Ice Facial Bowl, Ice Face Bowl, Ice Cube Box face, ice cube bowl Multicolor Silicone Ice Cube Tray",Rosebee Collapsible,kitchen_tools,157.0,mid-range
+8,flipkart,AMB Basin Colander with Lids for Vegetables Fruit Rice Food Washing Kitchen Tool Set,AMB Basin,kitchen_tools,566.0,premium
+9,flipkart,chapo 215689 Kitchen Tool Set,chapo,kitchen_tools,123.0,budget
+10,flipkart,Ruby Perl Wooden Spatula Cooking Serving Tools Without Polish Non Stick Spatula Nonstick Kitchen Tool Set,Ruby Perl,kitchen_tools,117.0,budget
+11,flipkart,Tesla exim cake baking set combo + cake making materials Kitchen Tool Set,Tesla exim,kitchen_tools,268.0,premium
+12,flipkart,"Lishonn 5 Piece Kitchen Tool Silicone Spoonula, Spatula and Basting Brush, Heat Resistant and Non-Stick Cookware Cooking Utensil Set, Dishwasher Safe, Red Kitchen Tool Set",Lishonn,kitchen_tools,229.0,premium
+13,flipkart,D-players Wooden Kitchen Chopping /Cutting/Slicing Board With Stainless Steel blade Knife ( Pack Of 2 ) Kitchen Tool Set,D-players,kitchen_tools,262.0,premium
+14,flipkart,ABMP Honeycomb Reusable Ice Maker Tray Green Silicone Ice Cube Tray,ABMP Honeycomb,kitchen_tools,99.0,budget
+15,flipkart,Bekner Stainless steel Dosa /Andra Palta set of 3 Kitchen Tool Set,Bekner,kitchen_tools,152.0,mid-range
+16,flipkart,Mass Pro Bakeware 24 Pc Cupcake Decorating Nozzle with Storage Box Stainless Steel Piping Cream Frosting Nozzles Set/Icing Tips Cake Cupcake Muffin Decorating Tool Kitchen Tool Set,Mass Pro,kitchen_tools,268.0,premium
+17,flipkart,chapo Full Silicone Spatula Combo with Oil Pastry Brush (pack of-2) Kitchen Tool Set,chapo Full,kitchen_tools,87.0,budget
+18,flipkart,MYOZ 3-Pcs Silicone Spatula Cooking Set with Wooden Handles for Non-Stick Cookware Kitchen Tool Set,MYOZ,kitchen_tools,203.0,premium
+19,flipkart,VIJAY EXPORT Stainless Steel 4 in 1 Smart Vegetable Grater & Stainless Steel Potato Masher with Wooden ( PACK OF 2 ) Kitchen Tool Set,VIJAY EXPORT,kitchen_tools,161.0,mid-range
+20,flipkart,RoyEnterprise Kitchen Sink Drain Basket Corner Sink Strainer with Hanging Filter Strainer,RoyEnterprise Kitchen,kitchen_tools,135.0,budget
+21,flipkart,Vrukie Aluminum Round Cake Baking Tins Combo Kitchen Tool Set,Vrukie Aluminum,kitchen_tools,379.0,premium
+22,flipkart,Unique Impex cake decorating items - cake making materials combo set with blender Kitchen Tool Set,Unique Impex,kitchen_tools,690.0,premium
+23,flipkart,VEWIKZY Face Bowl for Ice with Built-in Ice Tray – Collapsible Multicolor Silicone Ice Cube Tray,VEWIKZY Face,kitchen_tools,152.0,mid-range
+24,flipkart,Faya Ceramic Grater Plate for Fresh Ginger Turmeric Garlic and Daikon Radish Kitchen Tool Set,Faya Ceramic,kitchen_tools,260.0,premium
+25,flipkart,Ying Guns EZ642-Meat+Long +Large Combo Kitchen Tool Set,Ying Guns,kitchen_tools,574.0,premium
+26,flipkart,Veloxi EXIM powder sifter cup Collapsible Sieve,Veloxi EXIM,kitchen_tools,240.0,premium
+27,flipkart,ShopVee Air Fryer Silicone Baking Tray 6PCS Set - Reusable & Non-Stick Kitchen Tool Set,ShopVee Air,kitchen_tools,120.0,budget
+28,flipkart,Ruby Perl Wooden Spatula Cooking Serving Tools Kitchen Tool Set,Ruby Perl,kitchen_tools,118.0,budget
+29,flipkart,LUNATIC CRAFTWORK Non Chemical lovers Brown yellowish + Wooden Tong/Chimta Kitchen Tool Set,LUNATIC CRAFTWORK,kitchen_tools,117.0,budget
+30,flipkart,3D METRO SUPER STORE Steel Grade Phulka Roti Grill for Gas Stove Mesh Brinjal vegetable Papad Roaster Kitchen Tool Set,,kitchen_tools,262.0,premium
+31,flipkart,ZIRAK Premium Kitchen Tool Combo Garlic Mincer Peeler Oil Bottle Set Kitchen Tool Set,ZIRAK Premium,kitchen_tools,223.0,premium
+32,flipkart,M Y Plastic 3 in 1 Soap Pump Dispenser Kitchen Bathroom (Multi-Color) Kitchen Tool Set,M Y,kitchen_tools,129.0,budget
+33,flipkart,OMORTEX masher combo Kitchen Tool Set,OMORTEX masher,kitchen_tools,154.0,mid-range
+34,flipkart,Aric Chicken paneer tandoor (baingan) Grill Roaster (Square & Round ) Pack of 2 Kitchen Tool Set,Aric Chicken,kitchen_tools,129.0,budget
+35,flipkart,AKHAND ENTERPRISE 3 PCS KITCHEN SPATULA Non-Stick Spatula,AKHAND ENTERPRISE,kitchen_tools,180.0,mid-range
+36,flipkart,SRE Premium Non Chemical Wooden Spatula Non Stick Cooking Spoons Set of 7 Kitchen Tool Set,SRE Premium,kitchen_tools,104.0,budget
+37,flipkart,"sandook Roasting Net with Steel Tong, Stainless Steel Wire Roaster, Papad Jali,Roti Grill,Chapati, Grill Chicken Grill Square Roaster (1+Tong 1 Pcs) Kitchen Tool Set",sandook Roasting,kitchen_tools,123.0,budget
+38,flipkart,Rhydin Stainless Steel Drinking Straws (2 Bend and 2 Straight and 1 Cleaning Brushes) Kitchen Tool Set,Rhydin,kitchen_tools,71.0,budget
+39,flipkart,PRIVATE CAVE Non Stick Safe Silicone Utensils Wooden Handle Cooking Set Wooden Spatula,PRIVATE CAVE,kitchen_tools,180.0,mid-range
+40,flipkart,DAOME 50 ml Manual Ice Cream Maker,DAOME,kitchen_tools,216.0,premium
+41,flipkart,MISHTINCREATION Multifunctional Kitchen Strainer Bowl with Long Handle Colander,MISHTINCREATION Multifunctional,kitchen_tools,169.0,mid-range
+42,flipkart,Livvouge Flour Sifter/Atta chhani Hand Press Design Stainless Steel Flour Sifter Kitchen Tool Set,Livvouge Flour,kitchen_tools,215.0,premium
+43,flipkart,"SPACE Vegetable (Onion, Chilly) & Fruit Chopper/Cutter Kitchen Tool Set",SPACE Vegetable,kitchen_tools,172.0,mid-range
+44,flipkart,"ZORIADA 2 Pack Silicone Air Fryer Liners Reusable, Seropy Square Air Fryer Liners Kitchen Tool Set",ZORIADA,kitchen_tools,180.0,mid-range
+45,flipkart,MYOZ 4-Pcs Silicone Spatula Cooking Set with Wooden Handles for Non-Stick Cookware Kitchen Tool Set,MYOZ,kitchen_tools,250.0,premium
+46,flipkart,"kridhrish Metal Stainless Steel Funnel, Large Small Funnel Set of 3 with 2 Clean Brushes Stainless Steel Funnel",kridhrish Metal,kitchen_tools,207.0,premium
+47,flipkart,Cookzella Oil Bottle With Silicon Brush Kitchen Tool Set,Cookzella Oil,kitchen_tools,109.0,budget
+48,flipkart,NowExp Silicon Spatula for Kitchen Non-Stick Cooking Spatulas with Wooden 3 Set Kitchen Tool Set,NowExp Silicon,kitchen_tools,178.0,mid-range
+49,flipkart,"RUSHITA Stainless Steel Wooden Handle Ladle, Soup Ladle, Cooking Ladle, Kitchen Ladle Kitchen Tool Set",RUSHITA,kitchen_tools,158.0,mid-range
+50,flipkart,"ramakrishnavan Perfect 3 pcs Fish Scissor , Scale and Maw Knife Combo For Kitchen Fish Scaler",ramakrishnavan Perfect,kitchen_tools,150.0,mid-range
+51,flipkart,"LUZAX Coconut Opener Tool with Straw Set, and cleaning brush Kitchen Tool Set",LUZAX Coconut,kitchen_tools,135.0,budget
+52,flipkart,Flipkart SmartBuy Cooking Non Stick Serving Set of 6 Kitchen Tool Set,Flipkart SmartBuy,kitchen_tools,175.0,mid-range
+53,flipkart,"3D METRO SUPER STORE High Carbon SS Ultra Sharp Butcher, Meat, Pairing, Vegetable Knife for Kitchen Kitchen Tool Set",,kitchen_tools,180.0,mid-range
+54,flipkart,Vellora Creation 2 Pcs Kitchen Utility Combo – Potato Masher & Tong Kitchen Tool Set,Vellora Creation,kitchen_tools,164.0,mid-range
+55,flipkart,SANCORP 2 Pack Air Fryer Silicone Tray Reusable Air Fryer Round Silicone Kitchen Tool Set,SANCORP,kitchen_tools,130.0,budget
+56,flipkart,Balaji flame Swastik 4 in 1 combo Kitchen Tool Set,Balaji flame,kitchen_tools,178.0,mid-range
+57,flipkart,OMORTEX Combo Potato Vegetable Masher & Egg Whisker Kitchen Tool Set Stainless Steel Balloon Whisk,OMORTEX Combo,kitchen_tools,126.0,budget
+58,flipkart,SRE Premium Non Chemical Wooden Spatula Non Stick Cooking Spoons Set of 4 Kitchen Tool Set,SRE Premium,kitchen_tools,92.0,budget
+59,flipkart,"NANMOKU Primium Coconut Opener Tool, Coconut Driller-803 Kitchen Tool Set",NANMOKU Primium,kitchen_tools,270.0,premium
+60,flipkart,Dynore Stainless Steel Andhra Palta/Turners for Dosa/Uttapam/Roti/Paratha Kitchen Tool Set,Dynore,kitchen_tools,101.0,budget
+61,flipkart,RUSHITA 2 in 1 Multifunctional Stainless Steel Knife & Peeler Dual Use Kitchen Tool Kitchen Tool Set,RUSHITA,kitchen_tools,130.0,budget
+62,flipkart,"Eagean Stainless Steel Cooking and Serving Spoon Spatula, Set of 7 Kitchen Tool Set",Eagean,kitchen_tools,257.0,premium
+63,flipkart,"OMORTEX Of Power Free Hand Blender ,Wooden (Pack Of 5) Kitchen Tool Set",OMORTEX,kitchen_tools,188.0,premium
+64,flipkart,"Q7 BRAND High Carbon SS Ultra Sharp Butcher, Meat, Pairing, Vegetable Knife for Kitchen Kitchen Tool Set",,kitchen_tools,180.0,mid-range
+65,flipkart,AJDK MART Premium Silicone Kitchen Utensil Set with Wooden Handle 3pcs Nonstick Cooking Mixing Spatula,AJDK MART,kitchen_tools,180.0,mid-range
+66,flipkart,OGGN Set of 7 Wooden Spatula Kitchen Tool Set,OGGN Set,kitchen_tools,140.0,mid-range
+67,flipkart,Foxtale Nourishing Ceramide Moisturiser Pack of 2 Non-sticky 100hrs Hydration,Foxtale Nourishing,moisturizer,408.0,premium
+68,flipkart,Aqualogica Barrier+ Hydra Gel Moisturizer with 5 Ceramides & Avocado,Aqualogica Barrier+,moisturizer,428.0,premium
+69,flipkart,Mamaearth Night Cream For Women with Vitamin C & Gotu Kola for Skin Illumination,Mamaearth Night,moisturizer,544.0,premium
+70,flipkart,Pilgrim 5 Ceramides Moisturizer with CICA for Barrier Repair & Hydration,Pilgrim,moisturizer,291.0,mid-range
+71,flipkart,Lacto Calamine Light Moisturising Gel Non-sticky & Hydrating Niacinamide & Vit E Pack of 2,Lacto Calamine,moisturizer,375.0,mid-range
+72,flipkart,Dr. Sheth’s Ceramide & Vitamin C Moisturizing Cream 48hr Deep Hydration,Dr Sheth’s,moisturizer,403.0,premium
+73,flipkart,Foxtale Nourishing Ceramide Moisturiser Lightweight Non-sticky 100hrs Hydration,Foxtale Nourishing,moisturizer,244.0,budget
+74,flipkart,Lakmé Peach Milk Vit E Cream Moisturizer,Lakmé Peach,moisturizer,324.0,mid-range
+75,flipkart,The Derma Co 3% Vitamin E Face Moisturizer With Vitamin E & Lactic Acid For Dry & Flaky Skin,,moisturizer,299.0,mid-range
+76,flipkart,Dr. Sheth’s Ceramide & Vitamin C Oil-free Moisturizer Light Face Cream to Hydrate Skin 50g,Dr Sheth’s,moisturizer,317.0,mid-range
+77,flipkart,"Foxtale Brightening Moisturiser with Vitamin C & Niacinamide Brightens, Fades Dark Spots",Foxtale Brightening,moisturizer,307.0,mid-range
+78,flipkart,UNDERATED Glow &Acne Clear Face Moisturiser with SalicylicAcid &Vitamin EReduces Pimples,UNDERATED Glow,moisturizer,203.0,budget
+79,flipkart,Mamaearth Daily Glow Face Cream for Bright Skin With Vitamin C & Turmeric,Mamaearth Daily,moisturizer,235.0,budget
+80,flipkart,"Pilgrim Retinol Night Cream with Vitamin C Anti-ageing, Discover Youthful & Glowing Skin For Wrinkles, Fine Lines Dry, Acne Prone, Normal Skin Men and Women Korean Beauty 50gm",Pilgrim Retinol,moisturizer,499.0,premium
+81,flipkart,"Dot & Key Retinol+Ceramide Night Repair Cream,with Hyaluronic Smooths Wrinkles Fine Lines",Dot &,moisturizer,340.0,mid-range
+82,flipkart,Mamaearth Ubtan Oil-Free Face Moisturizer with Turmeric & Saffron for Skin Brightening,Mamaearth Ubtan,moisturizer,283.0,mid-range
+83,flipkart,"Fixderma Foot Cream Moisturizes, Soothes & Repair Dry, Cracked Heal & Calloused Foot Skin",Fixderma Foot,moisturizer,221.0,budget
+84,flipkart,Minimalist 5% Marula Oil Face Moisturizer with Hyaluronic Acid & Vitamin E for Dry Skin,Minimalist,moisturizer,284.0,mid-range
+85,flipkart,Plum Green Tea Oil-Free Face Moisturizer Soothes & Fights Acne Non-Sticky & Light,Plum Green,moisturizer,423.0,premium
+86,flipkart,Simple Water Boost Hydrating Gel Creme,Simple Water,moisturizer,317.0,mid-range
+87,flipkart,Mamaearth Daily Glow Face Cream with Beetroot & Hyaluronic Acid Lightweight & Non-Greasy,Mamaearth Daily,moisturizer,226.0,budget
+88,flipkart,Simple Kind To Skin Protecting Light Moisturiser,Simple Kind,moisturizer,334.0,mid-range
+89,flipkart,Mamaearth Tea Tree Oil-Free Moisturizer For Face For Oily Skin with Tea Tree & Salicylic Acid for Acne & Pimples,Mamaearth Tea,moisturizer,283.0,mid-range
+90,flipkart,Foxtale Super Glow Moisturiser With 4% VitC-Niacinamide Complex For Brighter Skin,Foxtale Super,moisturizer,430.0,premium
+91,flipkart,Joy Pure Aloe Multi Benefit Moisturisers Skin Cream for All Skin Type,Joy Pure,moisturizer,163.0,budget
+92,flipkart,Dr. Reddy's Venusia Acne Control Moisturizer Pore Minimising & Hydrating For Oily Skin,Dr Reddy's,moisturizer,541.0,premium
+93,flipkart,"Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion, Helps to Reduce Body Acne",Dr Sheth’s,moisturizer,271.0,budget
+94,flipkart,Youth Face Original Beauty Cream,Youth Face,moisturizer,378.0,mid-range
+95,flipkart,BELLAVITA DATE WOMAN Perfume Body Lotion Helps in Nourishing & Moisturising Skin,BELLAVITA DATE,moisturizer,225.0,budget
+96,flipkart,"Just Herbs Nourishing, Moisturising Massage Cream For Dull, Dry & Glowing Skin",Just Herbs,moisturizer,625.0,premium
+97,flipkart,"Re'equil OIL FREE MOISTURISER FOR NORMAL, OILY & COMBINATION SKIN",Re'equil OIL,moisturizer,280.0,budget
+98,flipkart,Glamour World Ayurvedic Glow Young Moisturiser - 100ML,Glamour World,moisturizer,222.0,budget
+99,flipkart,Ridoy soothing massage gel Ultra Soothing Body Care Version - Supports Natural For,Ridoy soothing,moisturizer,167.0,budget
+100,flipkart,"Joy Skin Fruits Fruit Moisturizing Skin Cream With Jojoba and Almond Oil, for all skin type",Joy Skin,moisturizer,252.0,budget
+101,flipkart,cotaryl Cream For Dry Skin Natural Moisturizing Factor,cotaryl Cream,moisturizer,120.0,budget
+102,flipkart,"NIVEA Body Milk, Lotion Moisturizer, with Deep Moisture Serum, Hyaluron & Almond Oil",NIVEA Body,moisturizer,398.0,premium
+103,flipkart,Joy Honey & Almonds Nourishing Skin Cream with Wheatgerm Oil Ingredient and Natural Sunscreen for All Skin Type,Joy Honey,moisturizer,179.0,budget
+104,flipkart,AKANSHA Sukhparash,AKANSHA Sukhparash,moisturizer,141.0,budget
+105,flipkart,Dot & Key Vitamin C + E Sorbet Super Bright Moisturizer For Face Reduces Skin Dullness,Dot &,moisturizer,426.0,premium
+106,flipkart,"Moiz Daily Moisturizing Cream Face & Body Sensitive Skin Shea Butter, Vitamin E",Moiz Daily,moisturizer,189.0,budget
+107,flipkart,Neutriderm Moisturising Lotion with Vitamin E - Soothes & Hydrates Skin,Neutriderm Moisturising,moisturizer,998.0,premium
+108,flipkart,Plum 2% Niacinamide & Rice Water Gel Cream Moisturizer Oil-free Brightens skin,Plum,moisturizer,321.0,mid-range
+109,flipkart,AQUASOFT DAY AQUA SOFT DAY CREAM 75GM,AQUASOFT DAY,moisturizer,706.0,premium
+110,flipkart,Skinbless Cream For Skin Lightenning,Skinbless Cream,moisturizer,382.0,mid-range
+111,flipkart,"HYPHEN 2% Cica Oil-free Moisturizer With 5% Niacinamide For Acne-prone, Oily, Dry Skin",HYPHEN,moisturizer,395.0,premium
+112,flipkart,"THE MAN COMPANY Daily Moisturising cream, Shea Butter & Vitamin E",,moisturizer,259.0,budget
+113,flipkart,Dr. Reddy's Venusia Max Intensive Moisturizing lotion with 4D Hyaluronic Acid,Dr Reddy's,moisturizer,1119.0,premium
+114,flipkart,Glamour World Ayurvedic Glow Fair Moisturiser - 100ML,Glamour World,moisturizer,243.0,budget
+115,flipkart,Ridoy soothing massage gel Concentrated Body Relaxation Blend - Suitable for,Ridoy soothing,moisturizer,150.0,budget
+116,flipkart,Re'equil CERAMIDE & HYALURONIC ACID MOISTURISER FOR NORMAL TO DRY SKIN,Re'equil CERAMIDE,moisturizer,280.0,budget
+117,flipkart,"Chemist at Play AHA Body Lotion with Niacinamide, Shea Butter Moisturizer For All Skin Types",Chemist at,moisturizer,359.0,mid-range
+118,flipkart,Deconstruct Vitamin C Brightening Face Moisturizer Brightens & Reduces Dark Spots,Deconstruct Vitamin,moisturizer,379.0,mid-range
+119,flipkart,ACNE OC Oil Free Hydrating Face Cream for Oily Skin,ACNE OC,moisturizer,419.0,premium
+120,flipkart,skinclinic STRETCH NIL,skinclinic STRETCH,moisturizer,360.0,mid-range
+121,flipkart,Excela Oily and Acne Prone,Excela Oily,moisturizer,500.0,premium
+122,flipkart,THE MAN COMPANY Glow Pro Instant Glow Face Moisturizer for Men Non-Sticky & Reduces Dark Spots,,moisturizer,259.0,budget
+123,flipkart,BIOTIQUE Morning Nectar Flawless Skin Moisturizer 24H Deep Moisture All Skin Types,BIOTIQUE Morning,moisturizer,425.0,premium
+124,flipkart,Element Multi Action Complexion Cream,Element Multi,moisturizer,239.0,budget
+125,flipkart,"THE QUINN Moisturizing Lotion For Dry Skin,Face & Body",,moisturizer,592.0,premium
+126,flipkart,Missha TIME REVOLUTION NIGHT REPAIR AMPOULE CREAM 5X (50ML),Missha TIME,moisturizer,3003.0,premium
+127,flipkart,"Dermatouch Ceramide Barrier Repair Moisturizer, Helps Reduce Moisture Loss",Dermatouch Ceramide,moisturizer,161.0,budget
+128,flipkart,"NIVEA Cocoa Nourish, Moisturizer Body Lotion, Coconut Oil, Serum, Hyaluronic acid",NIVEA Cocoa,moisturizer,310.0,mid-range
+129,flipkart,"MONk 2 SKINo malam Ayurvedic (Cream) 160g for Ringworm, & Skin recovery",MONk,moisturizer,647.0,premium
+130,flipkart,PERSONAL TOUCH SKINCARE Melakey - For Hyper Pigmentation & Melasma Face Cream,PERSONAL TOUCH,moisturizer,679.0,premium
+131,flipkart,"The Derma Co 4% Ceramide Barrier Repair Moisturizer with, Niacinamide, and Oxylance",,moisturizer,196.0,budget
+132,flipkart,"Lakmé Peach Ceramide Moisturizer with SPF 30 For Dry, Normal & Sensitive Skin",Lakmé Peach,moisturizer,345.0,mid-range
+133,flipkart,"The Derma Co 5% Nia-Ceramide Mattifying Moisturizer 5% Niacinamide, 2% Ceramide",,moisturizer,394.0,mid-range
+134,amazon,"R.O.A SKINCARE Hydrafix moisturizer for dry skin face with Niacinamide, Ceramides and Peptides Long lasting moisture for barrier repair Non-Comedogenic oil free moisturizer 50ml",R.O.A SKINCARE,moisturizer,489.0,premium
+135,amazon,"Dr. Sheth's Ceramide & Vitamin C Oil-Free Moisturizer With 1% Vitamin C Complex, Ceramide & Ashwagandha Lightweight Moisturizer to Hydrate & Brighten Skin For Oily, Combination & Acne-Prone Skin For Women & Men 50 g",Dr Sheth's,moisturizer,310.0,mid-range
+136,amazon,Neutrogena Hydro Boost Hyaluronic Acid Face Moisturizer 50ml 24 hours long lasting Hydration Oil free non sticky light water gel fast absorbing Daily use All Skin Types For Men & Women 50g,Neutrogena Hydro,moisturizer,850.0,premium
+137,amazon,"Garnier Fresh & Bright Vitamin C Sorbet Moisturizer, 4.5% Vit C + Hyaluronic Acid + Niacinamide + BHA, 9x Lighter Sorbet Cream, For Hydration & Dark Spot Reduction, Suitable for Oily to Normal & Combination Skin, 45g",Garnier Fresh,moisturizer,218.0,budget
+138,amazon,"VSK Professionals12% Glycolic Acid Cream Gel for Brightning, Anti-Pigmentation & Melasma Acne, Pimples & Dark Spots Unclogs Pores, Smooth Skin Care With PDRN SPF50 Sunscreen Combo 4 Tubes 20g each (80grm)",VSK,moisturizer,199.0,budget
+139,amazon,"Dot & Key Watermelon Cooling Icy Gel Moisturizer Instantly Cools Skin, Hyaluronic & Niacinamide Controls Excess Oil, Boosts Radianc Refreshes & Soothes Skin, Non-sticky & Non-greasy 60g",Dot &,moisturizer,425.0,premium
+140,amazon,"Episoft AC Moisturiser with Sunscreen Blocks 97% UVB rays Lightweight, non-greasy Fragrance free Acne safe Single step skincare Suitable for all Skin types 2 in 1 product Microencapsulated Sunscreen",Episoft AC,moisturizer,610.0,premium
+141,amazon,"SKIN1004 Madagascar Centella Cream Korean Face Moisturizer with Organic Ingredients Hydrating, Brightening & Anti-Wrinkle Skincare, 30ml",,moisturizer,649.0,premium
+142,amazon,RE' EQUIL Ceramide & Hyaluronic Acid Moisturiser Moisturizer For Face Barrier Repair Cream Long Lasting Hydration Suitable For Normal To Dry Skin 100G,RE' EQUIL,moisturizer,265.0,budget
+143,amazon,"Simple Hydrating Light Moisturiser, 50ml 12hr Hydration With Niacinamide, Pro-Vitamin B5, Glycerin & Borage Seed Oil Lightweight, Non-Greasy Formula For Soft, Smooth Skin",Simple Hydrating,moisturizer,186.0,budget
+144,amazon,"Plum Green Tea Renewed Clarity Night Gel Mini Hydrates Skin & Fights Acne Lightweight, Quick-Absorbing, Non-Sticky Gel Texture Oily, Acne-Prone Skin 100% Vegan(15ml)",Plum Green,moisturizer,185.0,budget
+145,amazon,"CeraVe HA Water Gel with Hyaluronic Acid, Ceramides & Niacinamide for Plumpy hydration Oil-free gel moisturizer 3 sec fast absorption Dermat recommended for Women & Men 50 ml",CeraVe HA,moisturizer,899.0,premium
+146,amazon,"Emolene - Moisturizing Cream, Hydronourish Dry Skin, Restores Moisture Balance, Smoothens Skin, Non-Greasy, Non-Comedogenic, Hypoallergenic, Fast Absorbing, Anti-Aging, Deep Hydration, Lightweight, Suitable for All Skin Types for Men and Women, 100 grams",Emolene,moisturizer,336.21,mid-range
+147,amazon,"The Face Shop Rice & Ceramide Moisturizing Cream with Rice Extracts for Skin Brightening Ceramide Moisturizer For Skin Barrier Repair Paraben & Paraffins Free, Korean skin care products, 50ml",,moisturizer,936.0,premium
+148,amazon,"Glamveda Korean Rice & Ceramide 9 Step Skincare Routine For Women & Men Face wash, Peel Off Mask, Toner, Serum, Under eye Cream, Moisturizer, Sunscreen, Body Lotion & Soap Skin Brightening",Glamveda Korean,moisturizer,940.0,premium
+149,amazon,"Parasoft Moisturizing Cream with Aloe Vera - 100g Deep Hydration Intense Moisturizer for Dry & Dehydrated Skin, Non-Greasy, All-Season Daily Skincare, Dermatologist Tested, Paraben-Free",Parasoft Moisturizing,moisturizer,189.0,budget
+150,amazon,"Minimalist Barrier Repair Face Moisturizer with Vitamin B12 Complex 5.5% with Ceramides for All Skin Types Strengthens Skin Barrier, Boosts Hydration, Soothing, Lightweight Gel Texture 50 gm",Minimalist Barrier,moisturizer,379.0,mid-range
+151,amazon,"Deconstruct Oil-Free Moisturizer Non Sticky, Lightweight, Non-Comedogenic & Fast-Absorbing Tested for 72H Hydration For Oily, Acne-Prone & Sensitive Skin 50g",Deconstruct Oil-Free,moisturizer,321.0,mid-range
+152,amazon,"The Derma Co Oil-Free Daily Face Moisturizer With Hyaluronic Acid, Ceramides & Multivitamins For Non-Greasy & Hydrated Skin Prolonged Moisturization Strengthens Skin Barrier 100 g",,moisturizer,310.0,mid-range
+153,amazon,Pond's Super Light Gel Oil Free Face Moisturizer 100 g With Cera-Hyamino for Ultimate Soft Smooth Skin - Daily Use,Pond's Super,moisturizer,241.0,budget
+154,amazon,"O3+ Mijoo Korea Legacy Cushion Cream Rice Moisturizer 40gm Enriched with Ginseng Root Extract, 2% Niacinamide & Ceramides Korean Skincare Cushion for Hydration, Brightening, Firmness & Skin Barrier Repair",,moisturizer,772.0,premium
+155,amazon,"Minimalist Vitamin B5 10% Oil-Free Moisturizer for Face, Lightweight Gel Moisturizer for Oily & Combination Skin, Barrier Repair Face Cream with Glycerine 30gm",Minimalist Vitamin,moisturizer,236.0,budget
+156,amazon,Pure Origin Korean Vitamin C Moisturizer 24-Hour Moisturization Light & Non-sticky Brightens & Evens Skin 100g,Pure Origin,moisturizer,137.0,budget
+157,amazon,"CeraVe Moisturizers, Moisturizing Cream For Dry To Very Dry Skin (50ml / 1.69 oz) (MB096400)",CeraVe Moisturizers,moisturizer,405.0,premium
+158,amazon,Mamaearth Rice Oil-Free Face Moisturizer for Oily Skin With Rice Water & Niacinamide for Glass Skin 24-Hour Hydration Brightens Skin Tone 80g,Mamaearth Rice,moisturizer,284.0,mid-range
+159,amazon,Dot & Key Vitamin C + E Sorbet Super Bright Moisturizer For Face Vitamin C Face Moisturizer Reduces Skin Dullness Oil Free & Lightweight For All Skin Types 60Ml,Dot &,moisturizer,425.0,premium
+160,amazon,"Ceramide & Peptide Moisturizer for Face (50ml) Anti-Aging Hydrating Cream with Hyaluronic Acid & Vitamin E Korean Skincare for Fine Lines, Dry & Sensitive Skin",Ceramide &,moisturizer,299.0,mid-range
+161,amazon,"Minimalist Marula Oil 5% Face Moisturizer For Dry Skin With Hyaluronic Acid For Deep Nourishment & Hydration, For Men & Women",Minimalist Marula,moisturizer,284.0,mid-range
+162,amazon,"Minimalist Barrier Repair Face Moisturizer with Vitamin B12 Complex 5.5% with Ceramides for All Skin Types Strengthens Skin Barrier, Boosts Hydration, Soothing, Lightweight Gel Texture 30 gm",Minimalist Barrier,moisturizer,283.0,mid-range
+163,amazon,"Foxtale Oil-Balancing Gel Face Moisturizer with Niacinamide & Cica 8hr Oil-Free Glow Lightweight & Non-Greasy Reduces Acne & Calms Skin For Oily & Acne-Prone Skin, 15ml Men & Women",Foxtale Oil-Balancing,moisturizer,193.0,budget
+164,amazon,"Foxtale Nourishing Ceramide Face Moisturizer with Niacinamide for 100 Hr Hydration, Lightweight & Non-Sticky, For Soft & Glowing Skin, Men & Women, All Skin Types, 50 ml",Foxtale Nourishing,moisturizer,196.0,budget
+165,amazon,"Vitamin C Moisturizer Vitamin E & Seabuckthorn Lightweight, Oil-Free Face Moisturizer Brightening & Deep Hydration With Niacinamide & Shea Butter For All Skin Types Men & Women 100 ml",Vitamin C,moisturizer,299.0,mid-range
+166,amazon,"Pilgrim Korean Light Gel Oil Free Hydra Glow Moisturizer Cream 100 g With Hyaluronic Acids, 3% Niacinamide, Rice Water for 5x Hydration & Instant Glass Skin Hydrating Gel for All Skin Type",Pilgrim Korean,moisturizer,330.0,mid-range
+167,amazon,"The Face Shop Rice & Ceramide Face Cream 70ml Barrier Repair Moisturizer for Dry Skin, Intense Hydration & Strengthening 12Hr Moisture Lock Korean Skincare",,moisturizer,563.0,premium
+168,amazon,"Dot & Key Barrier Repair Moisturizer For Normal, Dry, Combination & Sensitive Skin 120 Hrs Moisturization, With 5 Ceramides & Hyaluronic Repairs Damaged Skin Barrier, Non-Comedogenic 100g",Dot &,moisturizer,335.0,mid-range
+169,flipkart,TCL 138 cm (55 inch) Ultra HD (4K) LED Smart Google TV with MEMC Dolby Vision-Atmos HVA Panel & Me...,TCL,smart_tv,34990.0,premium
+170,flipkart,BESTON 140 cm (55 inch) QLED Ultra HD (4K) Smart Google TV,BESTON,smart_tv,25999.0,premium
+171,flipkart,XIAOMI A Pro 80 cm (32 inch) QLED HD Ready Smart Google TV with 200+ Free Channels HDR 10 Dolby Au...,XIAOMI,smart_tv,14999.0,mid-range
+172,flipkart,BESTON 109 cm (43 inch) Full HD LED Smart Android TV,BESTON,smart_tv,13999.0,mid-range
+173,flipkart,Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV with Voice Assistance Remote Control 100+ Free C...,Samsung,smart_tv,24990.0,premium
+174,flipkart,realme TechLife 100.3 cm (40 inch) QLED Full HD Smart Google TV 2026 Edition,realme TechLife,smart_tv,18749.0,mid-range
+175,flipkart,iFFALCON U65 108 cm (43 inch) Ultra HD (4K) LED Smart Google TV with MEMC Dolby Vision-Atmos HVA P...,iFFALCON,smart_tv,19499.0,mid-range
+176,flipkart,acerpure Nitro Z 108 cm (43 inch) QLED Ultra HD (4K) Smart Google TV with 120 Hz HSR Android 14 GTV...,acerpure Nitro,smart_tv,22999.0,mid-range
+177,flipkart,MOTOROLA 80 cm (32 inch) QLED HD Ready Smart Google TV,MOTOROLA,smart_tv,12099.0,budget
+178,flipkart,MarQ by Flipkart 109 cm (43 inch) Full HD LED Smart Coolita TV,MarQ,smart_tv,15499.0,mid-range
+179,flipkart,Foxsky 80 cm (32 inch) QLED HD Ready Smart Android TV 2026 Edition with 2.1 CH Audio System Tuned by 3...,Foxsky,smart_tv,9299.0,budget
+180,flipkart,Thomson Phoenix 80 cm (32 inch) QLED HD Ready Smart Android TV with 48W Sound Output,Thomson Phoenix,smart_tv,10299.0,budget
+181,flipkart,"realme TechLife 80 cm (32 inch) QLED HD Ready Smart Google TV with 5.0 OS, Dolby Audio, and Downfiring...",realme TechLife,smart_tv,11499.0,budget
+182,flipkart,Samsung Vision AI 138 cm (55 inch) Ultra HD (4K) Mini LED Smart Tizen TV 2026 Edition with Vision AI C...,Samsung Vision,smart_tv,45990.0,premium
+183,flipkart,VW OptimaX Series 101 cm (40 inch) QLED Full HD Smart Android TV 2025 Edition,VW OptimaX,smart_tv,13099.0,mid-range
+184,flipkart,VW Nano Sync Series 126 cm (50 inch) QLED Ultra HD (4K) Smart JioTele OS TV 2025 Edition,VW Nano,smart_tv,21299.0,mid-range
+185,flipkart,Sansui 80 cm (32 inch) HD Ready LED Smart Coolita TV 2024 Edition with Dolby Audio Surround Sound A+...,Sansui,smart_tv,12390.0,budget
+186,flipkart,"TCL 108 cm (32 inch) QLED Full HD Smart Google TV with QLED, HDR 10, Dolby Audio",TCL,smart_tv,15390.0,mid-range
+187,flipkart,Samsung Crystal 4K Vision AI 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2026 Edition with 30W S...,Samsung Crystal,smart_tv,44990.0,premium
+188,flipkart,XIAOMI A 80 cm (32 inch) HD Ready LED Smart Google TV with 200+ Free Channels HDR 10 Dolby Audio ...,XIAOMI,smart_tv,13999.0,mid-range
+189,flipkart,TCL TCL 81.2 cm (32 inch) QLED HD Ready Smart Google TV with 100% Color Volume Plus 16W Dolby Audio ...,TCL TCL,smart_tv,15490.0,mid-range
+190,flipkart,Sansui 80 cm (32 inch) HD Ready LED Smart Coolita TV with Dolby Audio Surround Sound A+ Panel 16...,Sansui,smart_tv,11990.0,budget
+191,flipkart,Foxsky 60 cm (24 inch) HD Ready LED Smart Android TV,Foxsky,smart_tv,6399.0,budget
+192,flipkart,Foxsky 109 cm (43 inch) QLED Full HD Smart Android TV 2026 Edition with 2.1 CH Audio System Tuned by 3...,Foxsky,smart_tv,13999.0,mid-range
+193,flipkart,Coocaa S4U Pro 80 cm (32 inch) HD Ready LED Smart Coolita TV 2026 Edition with 20W Speakers Eye Care N...,Coocaa,smart_tv,8599.0,budget
+194,flipkart,realme TechLife 80 cm (32 inch) QLED HD Ready Smart Google TV,realme TechLife,smart_tv,11399.0,budget
+195,flipkart,Akai AKAI 80 cm (32 inch) HD Ready LED Smart Google TV with (Android 14) A+ Grade Panel Dynamic Col...,Akai AKAI,smart_tv,12980.0,budget
+196,flipkart,XIAOMI FX Series 165.1 cm (65 inch) Ultra HD (4K) Mini LED Smart Fire TV 2026 Edition with Alexa built...,XIAOMI FX,smart_tv,64999.0,premium
+197,flipkart,Thomson 80 cm (32 inch) QLED HD Ready Smart JioTele OS TV 2026 Edition with 36W Sound Output 2 Speaker...,Thomson,smart_tv,9899.0,budget
+198,flipkart,Samsung Crystal 4K Vision AI 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2026 Edition with 30W S...,Samsung Crystal,smart_tv,31490.0,premium
+199,flipkart,Foxsky 102 cm (40 inch) QLED Full HD Smart Android TV 2026 Edition with 2.1 CH Audio System Tuned by 3...,Foxsky,smart_tv,11999.0,budget
+200,flipkart,VW OptimaX Series 80 cm (32 inch) QLED HD Ready Smart Android TV 2025 Edition,VW OptimaX,smart_tv,8599.0,budget
+201,flipkart,"MOTOROLA 165 cm (65 inch) Ultra HD (4K) Mini LED Smart Google TV 2026 Edition with QD Mini LED, 128 Lo...",MOTOROLA,smart_tv,55999.0,premium
+202,flipkart,"MOTOROLA 190 cm (75 inch) Ultra HD (4K) Mini LED Smart Google TV 2026 Edition with QD Mini LED, 180 Lo...",MOTOROLA,smart_tv,69999.0,premium
+203,flipkart,Infinix 80 cm (32 inch) HD Ready LED Smart Linux TV,Infinix,smart_tv,9099.0,budget
+204,flipkart,Bush 80 cm (32 inch) QLED HD Ready Smart Android Based TV,Bush,smart_tv,7999.0,budget
+205,flipkart,"MOTOROLA 218 cm (85 inch) Ultra HD (4K) Mini LED Smart Google TV 2026 Edition with QD Mini LED, 220 Lo...",MOTOROLA,smart_tv,114999.0,premium
+206,flipkart,realme TechLife 109 cm (43 inch) QLED Ultra HD (4K) Smart Google TV 2026 Edition,realme TechLife,smart_tv,22999.0,mid-range
+207,amazon,Onida 108 cm (43 inch) QLED Ultra HD 4K Smart Fire TV Q43UFD,Onida,smart_tv,24499.0,premium
+208,amazon,coocaa 190 cm (75 inches) 4K Ultra HD Smart Mini LED QLED Google TV 75MINI75Q,coocaa,smart_tv,63999.0,premium
+209,amazon,BLACK+DECKER 109 cm (43 inches) A1 Series 4K Ultra HD LED Smart Google TV BXTVGU43UD2875ATIN (Black),BLACK+DECKER,smart_tv,16820.0,mid-range
+210,amazon,VW 80 cm (32 inches) Pro Series HD Ready Smart QLED Google TV VW32F1,VW,smart_tv,11499.0,budget
+211,amazon,VW 108 cm (43 inches) Nano Sync Series 4K Ultra HD Smart JioTele OS QLED TV VW43JQ1 (Black),VW,smart_tv,16699.0,mid-range
+212,amazon,Xiaomi 108 cm (43 inch) X Ultra HD 4K Smart Google LED TV L43MB-AIN,Xiaomi,smart_tv,26499.0,premium
+213,amazon,Uniboom_Optima Series 60 cm (24 inch) HD Ready LED TV 2025 Edition with 30W Sonic Boom - True Frameless - Aura Vision+ Display - (Non Smart)- 24N-ULT-AED,Uniboom_Optima Series,smart_tv,5690.0,budget
+214,amazon,Sony 164 cm (65 inches) BRAVIA 2M2 Series 4K Ultra HD Smart LED Google TV K-65S25BM2,Sony,smart_tv,82990.0,premium
+215,amazon,Vu 108cm (43 inches) Vibe Series 4K QLED Smart Google TV 43VIBE-DV,Vu,smart_tv,26490.0,premium
+216,amazon,VW 127 cm (50 inches) Pro Series 4K Ultra HD Smart QLED Google TV VW50GQ2,VW,smart_tv,24999.0,premium
+217,amazon,VW 60 cm (24 inches) Premium Series HD Ready LED TV VW24A (Black),VW,smart_tv,5799.0,budget
+218,amazon,"TCL 126 cm (50 inches) Metallic Bezel-Less, FHD Smart QLED Google TV 50S5K",TCL,smart_tv,29990.0,premium
+219,amazon,Uniboom_Optima Series 80 cm (32 inch) HD Smart LED TV Android TV with Voice Command App 5000+ Free Movies 30W Sonic Boom Speakers 500+ Certified Apps Mobile Remote Mobile Screen Cast-32S-ULT-AED,Uniboom_Optima Series,smart_tv,9490.0,budget
+220,amazon,Philips 127 cm (50 inches) 8100 Series 4K Ultra HD Smart QLED Google TV 50PQT8100/94,Philips,smart_tv,34999.0,premium
+221,amazon,LG 108 cms (43 inches) NU87 AI Series Nano 4K Ultra HD Smart webOS LED TV 43NU870BPLA,LG,smart_tv,35990.0,premium
+222,amazon,Kodak QLED SE 80 cm (32 inch) QLED HD Ready Smart Linux TV 2025 Edition (32QSE5080),Kodak QLED,smart_tv,9499.0,budget
+223,amazon,VW 80 cm (32 inches) Frameless Series HD Ready Android Smart LED TV VW32S,VW,smart_tv,8499.0,budget
+224,amazon,Samsung 55 inches Crystal UHD 4K Samsung Vision AI Smart TV UA55UE85AHULXL,Samsung,smart_tv,44990.0,premium
+225,amazon,Acer 127 cm (50 inches) Ultra I Series 4K Ultra HD Smart LED Google TV AR50UDGGU2875BD,Acer,smart_tv,23299.0,mid-range
+226,amazon,Xiaomi 80 cm (32 inch) A HD Ready Smart Google LED TV L32MB-AIN,Xiaomi,smart_tv,13999.0,mid-range
+227,amazon,Philips 80 cm (32 inches) 6100 Series Frameless HD Smart LED Google TV 32PFT6130/94,Philips,smart_tv,13999.0,mid-range
+228,amazon,Samsung 108 cm (43 inches) Crystal 4K Vista Ultra HD Smart LED TV UA43UE81AFULXL,Samsung,smart_tv,28490.0,premium
+229,amazon,VW 101 cm (40 inches) Spectra Series Full HD Smart QLED Android TV VW40AQ3,VW,smart_tv,12999.0,budget
+230,amazon,VW 109 cm (43 inches) Spectra Series Full HD Smart QLED Android TV VW43AQ3,VW,smart_tv,14999.0,mid-range
+231,amazon,Samsung 80 cm (32 inches) HD Smart LED TV UA32H4550FUXXL,Samsung,smart_tv,16490.0,mid-range
+232,amazon,Haier H6E Series 165cm (65) 4K QLED Ultra HD Smart LED Google TV 65H6E,Haier,smart_tv,63490.0,premium
+233,amazon,Xiaomi 80 cm (32 inch) F Series HD Ready Smart LED Fire TV L32MB-FIN,Xiaomi,smart_tv,12999.0,budget
+234,flipkart,YAROH Premium (Bluetooth Headset) with Noise Cancelation Technology_OLL116 Bluetooth,YAROH Premium,headphones,461.0,budget
+235,flipkart,YAROH SH12 Premium (Bluetooth Headset) with Noise Cancelation Technology_HSH8 Bluetooth,YAROH,headphones,466.0,budget
+236,flipkart,"APES Zen Wireless Headphone, 40 mm Dynamic Drivers, 20 Hrs Playtime, Bluetooth v5.3 Bluetooth",APES Zen,headphones,900.0,mid-range
+237,flipkart,Frontech Earphone Deep Bass HD Audio 3.5mm For Call & Music Wired,Frontech Earphone,headphones,239.0,budget
+238,flipkart,VEKIN Headphone with FM/SD Card Slot with Music and Calling Control Bluetooth,VEKIN Headphone,headphones,486.0,budget
+239,flipkart,"VEKIN HIGH BASS SOUND, SD CARD SUPPORTABLE HEADPHONE Bluetooth & Wired",VEKIN HIGH,headphones,486.0,budget
+240,flipkart,"ZEBRONICS Thunder NEO (WHP 12),True 50h backup, 3EQ Modes, BT v6.0, AUX, ENC, Rapid Charge Bluetooth",ZEBRONICS Thunder,headphones,899.0,mid-range
+241,flipkart,PunnkFunnk Super Astro Beast Mode Bluetooth Headset with 70 Hours Playback 40ms Low Latency Bluetooth & Wired,PunnkFunnk Super,headphones,828.0,mid-range
+242,flipkart,Techobucks Brand New Deep Bass 24Hr Playing Time Fast Charging Bluetooth Headphone Bluetooth,Techobucks Brand,headphones,453.0,budget
+243,flipkart,"ZEBRONICS Zeb-Thunder, True 60Hr Backup, BT v6.0, Gaming Mode, ENC, AUX, mSD, Dual Pairing Bluetooth",ZEBRONICS Zeb-Thunder,headphones,999.0,mid-range
+244,flipkart,Worricow New Collection Wireless Bluetooth SH-12 High Bass Headphone Bluetooth Gaming,Worricow,headphones,464.0,budget
+245,flipkart,"Treadmill Sport running,Gaming Supper Dynamic Sound All Mobile Connect Bluetooth",Treadmill Sport,headphones,297.0,budget
+246,flipkart,GENZEE P9 Wireless Bluetooth Headphone over the ear-blue Bluetooth,GENZEE,headphones,595.0,mid-range
+247,flipkart,"ZEBRONICS Zeb-Storm, In-Line Mic, 1.5 Meter Cable, 3.5mm Jack, Soft Cushion, 40mm Drivers Wired",ZEBRONICS Zeb-Storm,headphones,799.0,mid-range
+248,flipkart,"ZEBRONICS Zeb-Thunder, True 60Hr Backup, BT v6.0, Gaming Mode, ENC, AUX, mSD, Dual Pairing Bluetooth",ZEBRONICS Zeb-Thunder,headphones,699.0,mid-range
+249,flipkart,HOPPUP with 20 Hours Play Time Bluetooth,HOPPUP,headphones,704.0,mid-range
+250,flipkart,Enacfire T60 Bullets Wireless Z2 Bass Edition Neckband headphone with 48 hr playtime Bluetooth,Enacfire,headphones,268.0,budget
+251,flipkart,"Treadmill SPORTS RUNNING HEADPHPONE Sweatproof for Running, Gym, Workout Bluetooth",Treadmill SPORTS,headphones,297.0,budget
+252,flipkart,Casecade Folding Bluetooth Headset with Pristine Bass Quality_FZ Bluetooth & Wired,Casecade Folding,headphones,364.0,budget
+253,flipkart,Ovista WIRED HEADPHONE Wired,Ovista WIRED,headphones,498.0,budget
+254,flipkart,Ovista P9 HEADPHONE Bluetooth & Wired,Ovista,headphones,498.0,budget
+255,flipkart,Clairbell 447O_sunglass Over the head Bluetooth Headset Bluetooth,Clairbell,headphones,713.0,mid-range
+256,flipkart,"boAt Rockerz 413,60H Battery,ENx, BEAST Mode, Dual Pair, Stream Ad Free Music via App Bluetooth",boAt Rockerz,headphones,1599.0,premium
+257,flipkart,Techobucks SH12 (2-in-1)Wired/Wireless Bluetooth Headphone 3D Stereo Sound Bluetooth,Techobucks,headphones,591.0,mid-range
+258,flipkart,"F FERONS Wireless Lightweight, Soft Pads Built-In Mic For Travel,Gym,Running Bluetooth",F FERONS,headphones,298.0,budget
+259,flipkart,URBANHUDA Premium (Bluetooth Headphone) with Noise Cancelation Technology_9Q Bluetooth & Wired,URBANHUDA Premium,headphones,380.0,budget
+260,flipkart,"PTron Studio Pro w/ Dual-device Pairing, 65hrs Playtime, AI-ENC Calls, Pristine Sound Bluetooth",PTron Studio,headphones,729.0,mid-range
+261,flipkart,Unix Wireless Headphones I 12 Hrs PlaytimeI 40MM Drivers I Foldable I Built in Mic Bluetooth,Unix Wireless,headphones,823.0,mid-range
+262,flipkart,SpinBot HX300 Headphones with 50ms Low Latency & RGB Lights Bluetooth Gaming,SpinBot,headphones,1894.0,premium
+263,flipkart,"TTDC P9 Wireless Headphones, Bluetooth Noise Cancelling with Microphone Bluetooth Bluetooth Gaming",TTDC,headphones,426.0,budget
+264,flipkart,"boAt Rockerz 480 w/ Beast Mode, RGB LEDs(6 Light Modes), 60HRS Playback & ENx Tech Bluetooth",boAt Rockerz,headphones,1799.0,premium
+265,flipkart,"BUFONA High Bass Wireless Earphone BT Sports Headphones with Fm,Memory Card Support Bluetooth",BUFONA High,headphones,336.0,budget
+266,flipkart,"ZEBRONICS Zeb-Duke, with 60h Backup, BT v5.3, Gaming Mode, ENC, LED Lights, Dual Pairing Bluetooth",ZEBRONICS Zeb-Duke,headphones,1199.0,premium
+267,flipkart,"PunnkFunnk K20 Headset, Over Ear Headphones with Mic Wired Gaming",PunnkFunnk,headphones,924.0,mid-range
+268,flipkart,SpinBot BattleBudz H2 Headphone RGB Light Boom Mic Suspension Headband Braided Cable Wired Gaming,SpinBot BattleBudz,headphones,980.0,mid-range
+269,flipkart,MasterGogo Bullets Zs Edition High Bass 48Hr Playtime Blutooth Headphone Neckband Bluetooth,MasterGogo Bullets,headphones,292.0,budget
+270,flipkart,VEDRID P47 WIRELESS Bluetooth,VEDRID,headphones,273.0,budget
+271,flipkart,"GOBOULT Fluid X Pro ANC Calling, 70Hrs Battery Life, Foldable design Bluetooth & Wired",GOBOULT Fluid,headphones,2299.0,premium
+272,flipkart,"GOBOULT Fluid X 60Hrs, 40mm Drivers, Foldable design, ENC Mic, 5.4v Bluetooth & Wired",GOBOULT Fluid,headphones,1999.0,premium
+273,flipkart,"boAt Rockerz 412, 60H Battery,40ms Latency,ENx, Stream Ad Free Music via App Bluetooth",boAt Rockerz,headphones,1599.0,premium
+274,flipkart,EARBUDDY SnapX 20 Pro+ with ANC Bluetooth 11 Bluetooth,EARBUDDY SnapX,headphones,276.0,budget
+275,flipkart,"Techpunch NEW TRENDING BLUETOOTH HEADPHONE WITH MIC FOR MUSIC, MOVIE & GAMING. Bluetooth & Wired",Techpunch,headphones,295.0,budget
+276,flipkart,F FERONS Foldable Headphone Stylish & Durable High Quality Stereo Sound Aux Support Bluetooth,F FERONS,headphones,297.0,budget
+277,flipkart,"boAt Rockerz 551 ANC with Hybrid ANC, 100 HRS Playback, 40mm Drivers & ASAP Charge Bluetooth",boAt Rockerz,headphones,2799.0,premium
+278,flipkart,"FRONY P9 Wireless Bluetooth Headphones Over Ear With Noise Reduction, Hi-Fi SoundA118 Bluetooth",FRONY,headphones,498.0,budget
+279,flipkart,F FERONS Wireless Foldable Sports Stereo With Microphone & Memory Card Supported Bluetooth,F FERONS,headphones,298.0,budget
+280,flipkart,"F FERONS Foldable Over-Ear Design Bluetooth 5.0 – Hi-Fi Sound,for Music, Work, and Calls Bluetooth",F FERONS,headphones,297.0,budget
+281,flipkart,HP H205 Bluetooth,HP,headphones,1785.0,premium
+282,flipkart,"GOBOULT Fluid X Pro ANC Calling, 70Hrs Battery Life, Foldable design Bluetooth & Wired",GOBOULT Fluid,headphones,2399.0,premium
+283,flipkart,EAGLESQUAD AeroPulse Premium Wireless Earbuds with Long Lasting Battery Bluetooth,EAGLESQUAD AeroPulse,headphones,599.0,mid-range
+284,flipkart,F FERONS Compact Foldable Headphone Crystal Crisp Clear Audio Soft Cushion Design Bluetooth,F FERONS,headphones,298.0,budget
+285,flipkart,"boAt Rockerz 371, 40mm Drivers, 50H Battery, BEAST Mode, ENx, Voice Assistant,BT v5.4 Bluetooth",boAt Rockerz,headphones,1099.0,premium
+286,flipkart,SONY ZX110A Wired without Mic,SONY,headphones,549.0,mid-range
+287,flipkart,"truke Aura Bass headphone w/ 40mm Drivers, 50Hrs playtime, low latency, ENC, Deep Bass Bluetooth",truke Aura,headphones,1199.0,premium
+288,flipkart,"GOBOULT Fluid X 60Hrs, 40mm Drivers, Foldable design, ENC Mic, 5.4v Bluetooth & Wired",GOBOULT Fluid,headphones,1999.0,premium
+289,flipkart,"PTron Studio w/ Dual-Device Pairing, 60Hrs Playtime, HD Mic, 40mm Drivers, BT5.4 Bluetooth & Wired",PTron Studio,headphones,649.0,mid-range
+290,flipkart,"PTron Studio w/ Dual-Device Pairing, 60Hrs Playtime, HD Mic, 40mm Drivers, BT5.4 Bluetooth",PTron Studio,headphones,649.0,mid-range
+291,flipkart,p9 Headphones Bluetooth & Wired,,headphones,401.0,budget
+292,flipkart,F FERONS Wireless Headphone BT 5.0 Over Ear Foldable with Built-in Mic SD Card Supported Bluetooth,F FERONS,headphones,298.0,budget
+293,flipkart,Digimore D-190 Professional Studio/DJ Headphones with 3.5mm & 6.35mm Connector (Over Ear) Wired,Digimore,headphones,1999.0,premium
+294,flipkart,Techpunch 100% BEST SOUND QUALITY BLUETOOTH HEADPHONE FOR GAMING & MUSIC FOR ALL DEVICE. Bluetooth & Wired,Techpunch,headphones,297.0,budget
+295,flipkart,Techpunch COMFORTABLE EAR PADS WIRELESS HEADPHONE WITH AUX SUPPORT COMPATIBLE DEVICE. Bluetooth & Wired,Techpunch COMFORTABLE,headphones,298.0,budget
+296,flipkart,FRONY SH12 Premium (Bluetooth Headset) with Noise Cancelation Technology_SRR425 Bluetooth,FRONY,headphones,473.0,budget
+297,flipkart,"boAt Rockerz 430, 40ms Latency, 40H Battery, Stream Ad Free Music via App, Bluetooth",boAt Rockerz,headphones,1299.0,premium
+298,amazon,"Logitech Zone Vibe 100 Lightweight Wireless Over-Ear Headphones with Noise-Cancelling Microphone, Advanced Multipoint Bluetooth Headset, Works with Teams, Google Meet, Zoom, Mac/PC - Offwhite",Logitech Zone,headphones,9295.0,premium
+299,amazon,boAt Bassheads 900 On Ear Wired Headphone With Mic,boAt Bassheads,headphones,899.0,mid-range
+300,amazon,Logitech H111 Wired On Ear Headphones With Mic Black,Logitech,headphones,745.0,mid-range
+301,amazon,"Boat Rockerz 650 Pro, Touch/Swipe Controls, Dolby Audio, 80Hrs Battery, 2Mics ENx, Fast Charge, App Support, Dual Pair, Bluetooth Over Ear Headphones with Mic (Sage Green)",Boat Rockerz,headphones,2899.0,premium
+302,amazon,"Sony ULT Wear WH-ULT900N Noise Cancellation Wireless Bluetooth Over Ear Headphones with Massive Bass, Up to 50Hrs Battery-Black",Sony ULT,headphones,14989.0,premium
+303,amazon,Marshall Major IV Wireless Bluetooth On Ear Headphone with Mic (Black),Marshall Major,headphones,9999.0,premium
+304,amazon,"OnePlus Bullets Wireless Z3 in-Ear Neckband with 12.4mm Drivers, 3D Spatial Audio,10 mins Charge for 27 hrs Playback, 4 EQ preset, Dynamic bass Enhancement & BT5.4",OnePlus Bullets,headphones,1999.0,premium
+305,amazon,"JBL Tune 770NC Wireless Over Ear ANC Headphones with Mic, Upto 70 Hrs Battery, Speed Charge : 5 min Charge Gives up to 3H of Playback, Customized EQ, Google Fast Pair, Dual Pairing, BT 5.3 (Blue)",JBL Tune,headphones,5499.0,premium
+306,amazon,"Boat Rockerz 512 ANC,(~40dB) Hybrid ANC, 80H Battery, 40mm Drivers, 40ms Low Latency, ENx Tech,Stream Ad Free Music via App Support, Bluetooth Headphones, Wireless Headphone with Mic (Bold Blue)",Boat Rockerz,headphones,2999.0,premium
+307,amazon,"Boat Bassheads 211 Wired Earphones with 10mm Drivers, Signature Sound, in-Line Microphone, 3.5mm Jack, Voice Assistant & 120cm Cables (Raging Black)",Boat Bassheads,headphones,299.0,budget
+308,amazon,"Spigen Audio Newly Launched SA-HP P10 Wireless Over Ear Headphones with 60H Playtime, Upto 43dB Multi-Mode Adaptive ANC Pro, EQ Customizing App, 5-MIC, Gaming Mode, 40mm Driver - Black",Spigen Audio,headphones,2499.0,premium
+309,amazon,"Zebronics Jet PRO Premium Wired Gaming On Ear Headphone with LED for Headband + earcups, 40mm Neodymium Drivers, 2 Meter Braided Cable, with mic, Suspension Design, 3.5mm + USB Connector (Black, Blue)",Zebronics Jet,headphones,888.0,mid-range
+310,amazon,"Zebronics Thunder Max (2026 Upgrade) Wireless Headphones, BT v6.0, Upto 120hrs Playback, 40mm Drivers, ENC, Gaming Mode, Dual Pairing, AUX, Rapid Charge, 3 EQ Modes, Voice Assistant, (Black)",Zebronics Thunder,headphones,821.0,mid-range
+311,amazon,"Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones with Mic, Adaptive Sound Control, Quick Charge, Up to 35Hrs Battery, Customized EQ- Blue : Model : YY2966",Sony,headphones,9020.0,premium
+312,amazon,"Boat Rockerz 411, 40Ms Low Latency, 40Hrs Battery, 40Mm Drivers, ENx Tech, Stream Ad Free Music via App Support, Bluetooth Headphones, Wireless Over Ear Headphone with Mic (Active Black)",Boat Rockerz,headphones,1299.0,premium
+313,amazon,"ZEBRONICS Thunder Neo (2026 Upgrade) Wireless Headphone, BT v6.0, True 50hrs Playback, 40mm Driver, ENC, Rapid Charge, Gaming Mode, Dual Pairing, 3 EQ Modes, AUX, Voice Assistant (Black)",ZEBRONICS Thunder,headphones,776.0,mid-range
+314,amazon,"JBL Tune 520BT Wireless On Ear Headphones with Mic, Upto 57H Battery, Speed Charge : 5 Min Charge Gives Up to 3H of Playback, Multipoint Connect, Customizable Bass with Headphones App, BT 5.3 (Black)",JBL Tune,headphones,2999.0,premium
+315,amazon,"Wireless Bluetooth Headphones with Deep Bass Sound, Foldable Design, Comfortable Cushioned Earpads, Built-in Mic for Music & Calls, Average Battery(1-3 Hours) Backup, Stylish Everyday Use",Wireless Bluetooth,headphones,299.0,budget
+316,amazon,"ZEBRONICS Bro 3.5Mm Wired in Ear Earphones, in-Line Mic, Deep Bass, 1.2M Strong and Long Lasting Cable, Light Weight, Compatible with Mobile Tablet Laptop (Blue)",ZEBRONICS Bro,headphones,139.0,budget
+317,amazon,"Portronics Muffs M6 Over Ear Wireless Bluetooth Headphone with Upto 40 Hours Playtime, Dual Pairing, 40mm Driver, HD Mic, Bluetooth 5.4V, Foldable Design, Type C Fast Charging (Biege)",Portronics Muffs,headphones,1149.0,premium
+318,amazon,"GOBOULT Fluid X Headphones Bluetooth Wireless with 60H Playtime, 40mm Drivers, Zen ENC Mic, Type-C Charging, Combat Gaming, BTv 5.4, Headphones Wireless with mic (Polar White)",GOBOULT Fluid,headphones,1999.0,premium
+319,amazon,Sony ZX Series MDR-ZX310AP Wired Headband Stereo On Ear Headset -Blue,Sony ZX,headphones,899.0,mid-range
+320,amazon,"boAt Rockerz Trendz, 40mm Drivers, 50hrs Battery, 60ms Low Latency, ENx Tech, BT v5.4, Foldable Cups, Voice Assistant, Bluetooth Headphones, Wireless Headphone with Mic - Bold Blue",boAt Rockerz,headphones,989.0,mid-range
+321,amazon,"Boat Rockerz 421, 60H Battery, Low Latency(40Ms), 40Mm Drivers, ENx Tech, Stream Ad Free Music via App Support, Bluetooth Headphones, Wireless Over Ear Headphone with Mic (Black Sabre)",Boat Rockerz,headphones,1299.0,premium
+322,amazon,"Sony WH-CH520 Wireless Bluetooth Headphones On Ear with Mic, Up to 50Hrs Battery, Quick Charge, DSEE Upscale, Multipoint Connectivity, Voice Assistant, Customized EQ-Black",Sony,headphones,4394.0,premium
+323,amazon,"pTron Studio Evo 70hrs Playtime Wireless Over Ear Headphones w/HD Mic, Dual Device Pairing, Low-Latency Game/Movie/Music Modes, Punchy Bass, BT5.3, Voice Assistant & Type-C Fast Charging (Beige)",pTron Studio,headphones,797.0,mid-range
+324,amazon,"Zebronics Thunder (2026 Upgrade) Wireless Headphones, BTv6.0, True 60 Hrs Playback at 100% Volume(Upto 100 Hrs at 50%), 40mm Drivers,ENC,Gaming Mode, Dual Pairing, AUX & mSD,Rapid Charging(Teal Green)",Zebronics Thunder,headphones,749.0,mid-range
+325,amazon,"boAt Rockerz 480, RGB LEDs,6 Light Modes, 40mm Drivers,Beast Mode, 60H Battery, ENx Tech, Stream Ad Free Music via App Support, Bluetooth Headphones, Wireless Over Ear Headphone with Mic (Black Sabre)",boAt Rockerz,headphones,1799.0,premium
+326,amazon,"Noise Two Wireless On Ear Headphones with 50 Hours Playtime, Low Latency(up to 45ms), 4 Play Modes, Dual Pairing, BT v5.3 (Serene Blue)",Noise Two,headphones,1699.0,premium
+327,amazon,"Sony MDR-ZX110A On Ear Stereo Wired Headphones (White), Without Mic",Sony,headphones,549.0,mid-range
+328,amazon,"pTron Studio w/ 60Hrs Playtime, Wireless Over-Ear Headphones with HD Mic, Dual-Device Pairing, Immersive Sound, 40mm Drivers, BT5.4, 3.5mm Aux Port, TF Card Slot & Type-C Fast Charging (Beige)",pTron Studio,headphones,649.0,mid-range
+329,flipkart,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528 - (4 GB/64 GB EMMC Storage/Chrome OS) 100e...,Lenovo,laptops,18990.0,budget
+330,flipkart,"ASUS Vivobook S16 OLED (2025) with Backlit Keyboard, Metal Body*, Snapdragon X - (16 GB/512 GB SSD/Win...",ASUS Vivobook,laptops,69990.0,premium
+331,flipkart,MSI Modern 14 AMD Ryzen 5 Hexa Core 7430U - (16 GB/512 GB SSD/Windows 11 Home) 14 C7M-283IN / 14 C7M-4...,MSI Modern,laptops,45990.0,mid-range
+332,flipkart,ASUS Vivobook S14 (2025)(i5 14th Gen) with Office 2024 + M365 Basic* Backlit Keyboard Intel Core 5 210...,ASUS Vivobook,laptops,64990.0,premium
+333,flipkart,Acer Aspire 3 Backlit AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) Aspire AS15 - 4...,Acer Aspire,laptops,54990.0,mid-range
+334,flipkart,HP Victus AMD Ryzen 7 Hexa Core 7445H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce...,HP Victus,laptops,72990.0,premium
+335,flipkart,ASUS ExpertBook P1 (i7 14th Gen) with 1 Yr ADP Intel Core 7 240H - (32 GB/512 GB SSD/Windows 11 Home) ...,ASUS ExpertBook,laptops,79990.0,premium
+336,flipkart,Acer One 14 AMD Ryzen 3 Quad Core 7320U - (8 GB/256 GB SSD/Windows 11 Home) A114-43 Thin and Light Lap...,Acer One,laptops,39990.0,budget
+337,flipkart,HP Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home) 15-fr0046TU Thin and Light Lapto...,HP Intel,laptops,71990.0,premium
+338,flipkart,Acer Aspire 15 AMD Office 2024 + M365 Basic AMD Ryzen 5 Hexa Core 7430U - (16 GB/512 GB SSD/Windows 11...,Acer Aspire,laptops,49990.0,mid-range
+339,flipkart,Lenovo IdeaPad Slim 3 with 1Year ADP AMD Ryzen 5 40 - (16 GB/512 GB SSD/Windows 11 Home) 15AMN8 Laptop,Lenovo IdeaPad,laptops,54990.0,mid-range
+340,flipkart,Acer Aspire 14 Office 2024 + M365 Basic (i5 14th Gen) Intel Core 5 210 H - (16 GB/512 GB SSD/Windows 1...,Acer Aspire,laptops,55990.0,mid-range
+341,flipkart,Lenovo Chromebook Duet 11M889 MediaTek MediaTek Kompanio 838 - (8 GB/128 GB EMMC Storage/Chrome OS) 11...,Lenovo Chromebook,laptops,31990.0,budget
+342,flipkart,HP 15 (i3 14th Gen) Intel Core 3 100U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd1253TU/ 15-fd1225TU Thi...,HP,laptops,41838.0,budget
+343,flipkart,ASUS Expertbook P1 with 1 Yr ADP(i3 14th Gen) Intel Core 3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 1...,ASUS Expertbook,laptops,42990.0,budget
+344,flipkart,"ASUS Vivobook 15 (2026) with Office 2024 + M365 Basic*, AMD Ryzen 5 Hexa Core 150 - (16 GB/512 GB SSD/...",ASUS Vivobook,laptops,59990.0,mid-range
+345,flipkart,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350 - (24 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA Ge...,HP OMEN,laptops,134990.0,premium
+346,flipkart,HP 14 AI PC Intel Core Ultra 7 155H - (16 GB/1 TB SSD/Windows 11 Home) 14-ep1152TU Thin and Light Lapt...,HP,laptops,79990.0,premium
+347,flipkart,HP MSO 2024 Intel Core i3 13th Gen 1315U - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0574TU / 15 - fd066...,HP MSO,laptops,49990.0,mid-range
+348,flipkart,Acer Aspire with Infinity Neet Capsule Course Intel Celeron Dual Core N4500 - (8 GB/128 GB SSD/Windows...,Acer Aspire,laptops,32990.0,budget
+349,flipkart,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520 - (4 GB/32 GB EMMC Storage/Chrome OS) 100e Chromebo...,Lenovo,laptops,16298.0,budget
+350,flipkart,ASUS Chromebook CX14 Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) CX1405CKA-NK0...,ASUS Chromebook,laptops,17990.0,budget
+351,flipkart,Lenovo IdeaPad Slim 3 Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) IdeaPad Slim 3 ...,Lenovo IdeaPad,laptops,51000.0,mid-range
+352,flipkart,Primebook 2 Pro (2025) in-Built AI MediaTek Helio G99 (MT8781) - (8 GB/128 GB/Android 15) PBG9914128#4...,Primebook,laptops,26990.0,budget
+353,flipkart,Acer Aspire with Infinity Neet Pro Course Intel Celeron Dual Core N4500 - (8 GB/128 GB SSD/Windows 11 ...,Acer Aspire,laptops,44990.0,mid-range
+354,flipkart,ASUS Expertbook AMD Ryzen 5 Hexa Core 150 - (16 GB/512 GB SSD/Windows 11 Home) PM1503CDA-S70546WS Lapt...,ASUS Expertbook,laptops,58990.0,mid-range
+355,flipkart,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520 - (8 GB/64 GB EMMC Storage/Chrome OS) 100e Chromebo...,Lenovo,laptops,22490.0,budget
+356,flipkart,ASUS Chromebook CX15 Intel Celeron Dual Core N50 - (4 GB/128 GB EMMC Storage/Chrome OS) CX1505CTA-S702...,ASUS Chromebook,laptops,20990.0,budget
+357,flipkart,"ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Intel Core Ultra 5 225H - (1...",ASUS Vivobook,laptops,66990.0,premium
+358,flipkart,Infinix B15 Series AMD Ryzen 7 Octa Core 5825U - (8 GB/512 GB SSD/Windows 11 Home) BL51A5 Thin and Lig...,Infinix,laptops,42990.0,budget
+359,flipkart,Acer Aspire with Infinity Neet Capsule Course Intel Celeron Dual Core N4500 - (8 GB/128 GB SSD/Windows...,Acer Aspire,laptops,29990.0,budget
+360,flipkart,Acer Aspire 3 Intel Pentium Quad Core N6000 - (12 GB/512 GB SSD/Windows 11 Home) A325-45 Thin and Ligh...,Acer Aspire,laptops,39938.0,budget
+361,flipkart,HP 15 (i5 14th Gen) Intel Core 5 120U - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0665TU / 15-fd0640TU /...,HP,laptops,65990.0,premium
+362,flipkart,ASUS Expertbook P3 Metal High-performance processor with 1 Yr ADP Intel Core i7 13th Gen 13620H - (32 ...,ASUS Expertbook,laptops,76990.0,premium
+363,flipkart,ASUS ExpertBook P1 (i3 14th Gen) with 1 Yr ADP Intel Core 3 14th Gen 100U - (8 GB/512 GB SSD/Windows 1...,ASUS ExpertBook,laptops,46990.0,mid-range
+364,flipkart,Acer Aspire 3 AMD Ryzen 3 Quad Core 7330U - (8 GB/256 GB SSD/Windows 11 Home) AS15-42 Thin and Light L...,Acer Aspire,laptops,38990.0,budget
+365,flipkart,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) Chromeboo...,Lenovo Chromebook,laptops,14999.0,budget
+366,flipkart,ASUS Chromebook CX14 Intel Celeron Dual Core N50 - (4 GB/64 GB EMMC Storage/Chrome OS) CX1405CTA-S6062...,ASUS Chromebook,laptops,16990.0,budget
+367,amazon,"ASUS Vivobook 15, Smartchoice,Intel Core i3 13th Gen 1315U, 12GB RAM, 512GB SSD, FHD 15.6"", Win 11, Office 2024, Quiet Blue, 1.7Kg, X1504VA-BQ332WS, Intel UHD iGPU, M365 Basic (1Year)*, 42Whrs Laptop",ASUS Vivobook,laptops,50990.0,mid-range
+368,amazon,"ASUS Vivobook 16, Smartchoice, Intel Core Ultra 5 Series 2, 16GB RAM, 512GB SSD, FHD+ 16"", Windows 11, Office Home 2024, Silver, 1.88kg, X1607CA-MB142WS, Intel iGPU, M365 Basic (1Year)* Laptop",ASUS Vivobook,laptops,68990.0,premium
+369,amazon,"ASUS Vivobook Go 15 (2025), AMD Ryzen 5 7520U Thin & Light Laptop(16GB RAM/512GB SSD/FHD/15.6""/60Hz/Windows 11/M365 Basic (1Year)*/Office Home 2024/Backlit KB/Mixed Black/1.63Kg) E1504FA-BQ2414WS",ASUS Vivobook,laptops,53990.0,mid-range
+370,amazon,"ASUS Vivobook 15, 13th Gen, Intel Core i3-1315U, 16GB RAM, 512GB SSD, FHD, Anti-Glare, 15.6"", 39.6 cm, Windows 11 Home, M365 Basic(1yr)* Office24, Quiet Blue, 1.70 kg, X1504VA-BQ342WS, Laptop",ASUS Vivobook,laptops,52900.0,mid-range
+371,amazon,"Lenovo IdeaPad Slim 3, AMD Ryzen 7 8840HS, 24GB RAM, 1TB SSD, WUXGA IPS, AI PC, 15.3""/38.8cm, Backlit Keyboard, Windows 11, Office Home 2024, Grey, 1.6Kg, 1Yr ADP Free, 83KA004TIN, AI Powered Laptop",Lenovo IdeaPad,laptops,82990.0,premium
+372,amazon,"HP Victus, AMD Ryzen 7 7445HS, 4GB RTX 2050, 16GB DDR5(Upgradable) 512GB SSD, FHD, 144Hz, 300 nits, IPS, 15.6''/39.6cm, Win11, M365* Office24, Mica Silver, 2.29kg, fb3123AX, Backlit, Gaming Laptop",HP Victus,laptops,67990.0,premium
+373,amazon,"HP Professional 14 (2026) – Intel Core 5 120U (14th Gen), 16GB RAM, 512GB SSD, Windows 11 Pro, MSO 2024, Copilot Key, Fingerprint Reader, Intel Iris Xe Graphics, 14″ FHD Display, 1.53Kg – Turbo Silver",HP Professional,laptops,60190.0,mid-range
+374,amazon,"Acer Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 WHR/HD Webcam) A325-45 with 39.63 cm (15.6"") HD Display, Pure Silver, 1.5 KG",Acer Aspire,laptops,36990.0,budget
+375,amazon,"EBook 11.6"" HD Laptop Best Student & Office Work Laptop Celeron N4020 4GB DDR4 128GB eMMC + M.2 SSD Expandable Slot Win 11 Home 31Wh Battery UHD Graphics 600 Black",EBook,laptops,14356.0,budget
+376,amazon,"HP Professional 15 (2026), Intel (i3 14th Gen) Core 3 100U - (8 GB DDR5/512 GB SSD/Intel UHD Graphics) Thin & Light Business Laptop/15.6"" FHD/Fingerprint/Silver/1.5kg",HP Professional,laptops,46300.0,mid-range
+377,amazon,"Acer Smartchoice Aspire One, AMD Ryzen 3-7320U, Office 2024 + M365 Basic, 8GB LPDDR5 RAM/ 256GB SSD, 14.0""/35.56cm TN HD Display, Win 11 Home, Pure Silver, 1.48KG, A114-43, Thin and Light Laptop",Acer Smartchoice,laptops,41990.0,budget
+378,amazon,"HP OmniBook 3, AMD Ryzen AI 5 330 (24GB DDR5 RAM, 1TB SSD) FHD, Anti-Glare, 15.6''/39.6cm, Win11, Office24, Glacier Silver,1.7kg, fn0074AU, FHD Camera w/Shutter, FPR, Backlit KB, Next Gen AI Laptop",HP OmniBook,laptops,70990.0,premium
+379,amazon,"HP 15 (i5 14th Gen), Intel Core 5, 16GB RAM (Upgradeable), 512GB SSD, FHD, Anti-Glare, 15.6''/39.6cm, Win11, M365 Basic(1yr), Office24, Silver,1.59kg, fd0682tu, FHD Camera w/Shutter, Backlit Laptop",HP,laptops,65990.0,premium
+380,amazon,"HP 14, AMD Ryzen 7 7730U (16GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 14''/35.6cm, Win11, M365 Basic(1yr), Office Home24, Silver,1.4kg, EM0104AU, FHD Camera w/Privacy Shutter, Backlit Laptop",HP,laptops,66990.0,premium
+381,amazon,"HP 15 Smartchoice, 13th Gen Intel Core i3-1315U(8GB DDR4,512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365(1yr)*Office24, Silver,1.59kg, fd0572TU, FHD Camera w/Shutter, Backlit Laptop",HP,laptops,51990.0,mid-range
+382,amazon,"HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/DOS) Thin and Light Business Laptop/15.6"" HD Display/Turbo Silver/Copilot Key/1.5kg",HP,laptops,39780.0,budget
+383,amazon,"ASUS TUF A15 (2025), AMD Ryzen 7 7445HS,RTX 3050-4GB,75W TGP,16GB DDR5(Upgradeable Upto 64GB) 512GB SSD,FHD,15.6"",144Hz,RGB Keyboard,Windows 11,Graphite Black,2.3 Kg FA506NCG-HN199W, Gaming Laptop",ASUS TUF,laptops,73990.0,premium
+384,amazon,"ASUS Vivobook 15, Smartchoice, AMD Ryzen 7 5825U, 16GB RAM, 512GB SSD, FHD 15.6"", Windows 11, Office Home 2024, Quiet Blue, 1.7Kg, M1502YA-BQ703WS, AMD Radeon iGPU, M365 Basic (1Year)*, 42Whr Laptop",ASUS Vivobook,laptops,56990.0,mid-range
+385,amazon,"Lenovo V15 G4 AMD Ryzen 5 7520U 15.6 inch FHD Laptop, AMD Graphics, 16GB DDR5 5500Mhz Ram, 512GB SSD NVMe, Windows 11, Dolby Audio, Arctic Grey, 1 Year Onsite Brand Warranty",Lenovo,laptops,54160.0,mid-range
+386,amazon,"BrowseBook 14.1"" FHD IPS Laptop Best Student & Office Work Laptop Celeron N4020 4GB RAM 128GB SSD Windows 11 38Wh 1.3kg Grey",BrowseBook,laptops,14790.0,budget
+387,amazon,"HP Smartchoice Victus, AMD Ryzen 7 7445HS, 6GB RTX 3050, 16GB DDR5(Upgradeable) 512GB SSD, FHD, 144Hz, 300 nits, 15.6''/39.6cm, Win 11, M365* Office24, Blue, 2.29kg, fb3134AX/3120ax, Gaming Laptop",HP Smartchoice,laptops,86990.0,premium
+388,amazon,"Dell 15 Smart Choice (Previously Inspiron), 13th Gen Intel Core i5-1334U (16GB RAM, 1TB SSD) FHD, 15.6""/39.62cm, Windows 11 MSO'24, Silver, 1.62kg, 12 Month McAfee, Backlit KB, Thin & Light Laptop",Dell,laptops,68490.0,premium
+389,amazon,"ASUS Vivobook 15, Smartchoice,Intel Core i5 13th Gen 13420H,16GB RAM, 512GB SSD, FHD 15.6"",Windows 11, Office Home 2024, Quiet Blue, 1.70 kg, X1502VA-BQ836WS,Intel UHD iGPU, M365 Basic (1Year)* Laptop",ASUS Vivobook,laptops,60990.0,premium
+390,amazon,"HP 15, AMD Ryzen 3 7320U (8GB LPDDR5, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6""/39.6cm, Win 11, Office 21, Silver, 1.59kg, fc0154AU, AMD Radeon Graphics, 1080p FHD Camera Laptop",HP,laptops,45990.0,mid-range
+391,amazon,"Apple 2026 MacBook Neo 13″ Laptop with A18 Pro chip: Built for AI and Apple Intelligence, Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, 1080p FaceTime HD Camera; Silver",Apple,laptops,63990.0,premium
+392,amazon,"Lenovo IdeaPad Slim 3 Intel Core Ultra 5 322 Next-Gen AI PC (16GB RAM/512GB SSD/15.3"" (38.8cm)/WUXGA IPS/Copilot+ PC/Windows 11/MSO 365 Basic+Office 2024/Backlit Keyboard/Grey/1.6Kg), 83UR009QIN",Lenovo IdeaPad,laptops,109990.0,premium
+393,amazon,"Lenovo IdeaPad 1 AMD Ryzen 5 5500U 15.6"" HD Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/Office Home 2024/1 Year ADP Free/Grey/1.6Kg), 82R4011MIN",Lenovo IdeaPad,laptops,50990.0,mid-range
+394,amazon,"ASUS Vivobook 16,Smartchoice, 13th Gen, Intel Core i5-13420H,16GB RAM,512GB SSD,FHD, OLED,Win 11,M365 Basic (1Y),Backlit Keyboard,Office 2024,Silver,1.88 kg,X1605VA-SH1952WS, Thin & Light Laptop",ASUS Vivobook,laptops,63990.0,premium
+395,amazon,"Dell 15 (Previously Inspiron) Laptop, 14th Gen Intel Core i3/Core 3 100U Processor, 8GB DDR4, 512 SSD, 15.6"" FHD 120Hz IPS 250 nit Display, Win 11 + Office H&S 2024, Carbon Black, Thin & Light 1.63Kg",Dell,laptops,46990.0,mid-range
+396,amazon,"Certified T14 Professional Light Weight Laptop Core i5 10th Gen Up to 32GB RAM Up to 2TB SSD 14"" FHD Display Windows 11 (16, GB, 512, GB)",Certified,laptops,29990.0,budget
+397,amazon,"Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB LPDDR5 Ram, 512 GB SSD PCIe, Windows 11 Lifetime Validity,15.6"" FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",Lenovo,laptops,44999.0,mid-range
+398,amazon,"Acer Smartchoice Aspire One, Intel Core Celeron N4500, Office 2024 + M365 Basic, 12GB LPDDR4X / 256GB SSD, 14.0""/35.56cm TN HD Display, Win 11 Home, Pure Silver, 1.3KG, A114-45, Thin and Light Laptop",Acer Smartchoice,laptops,35990.0,budget
+399,flipkart,"Samsung Galaxy F06 5G (Lit Violet, 64 GB)",Samsung Galaxy,smartphones,12499.0,budget
+400,flipkart,"REDMI 15C 5G (Moonlight Blue, 128 GB)",REDMI,smartphones,18783.0,mid-range
+401,flipkart,"POCO F7 5G (Phantom Black, 256 GB)",POCO,smartphones,35999.0,premium
+402,flipkart,"MOTOROLA Edge 70 Fusion (Pantone SILHOUETTE, 256 GB)",MOTOROLA Edge,smartphones,33999.0,premium
+403,flipkart,"POCO C85 5G (Mystic Purple, 128 GB)",POCO,smartphones,15999.0,mid-range
+404,flipkart,"MOTOROLA Edge 60 Pro (Pantone Shadow, 256 GB)",MOTOROLA Edge,smartphones,29999.0,premium
+405,flipkart,"POCO C85 5G (Power Black, 128 GB)",POCO,smartphones,14499.0,mid-range
+406,flipkart,"POCO C81 (Sunset Gold, 64 GB)",POCO,smartphones,11999.0,budget
+407,flipkart,"OPPO K14 5G (Prism White, 256 GB)",OPPO,smartphones,23999.0,premium
+408,flipkart,"vivo T4R 5G (Arctic White, 256 GB)",vivo,smartphones,24999.0,premium
+409,flipkart,"MOTOROLA Edge 70 Fusion (Pantone BLUE SURF, 256 GB)",MOTOROLA Edge,smartphones,33999.0,premium
+410,flipkart,"OnePlus Nord CE6 (Pitch Black, 128 GB)",OnePlus Nord,smartphones,34892.0,premium
+411,flipkart,"realme P4 Lite (Sea Blue, 64 GB)",realme,smartphones,11499.0,budget
+412,flipkart,"POCO C71 - Locked with Airtel Prepaid (Desert Gold, 64 GB)",POCO,smartphones,8999.0,budget
+413,flipkart,"POCO M7 Plus 5G (Carbon Black, 128 GB)",POCO,smartphones,16999.0,mid-range
+414,flipkart,"vivo T4R 5G (Twilight Blue, 128 GB)",vivo,smartphones,22999.0,premium
+415,flipkart,"POCO M7 Plus 5G (Aqua Blue, 128 GB)",POCO,smartphones,17999.0,mid-range
+416,flipkart,"OnePlus Nord CE6 Lite (Hyper Black, 128 GB)",OnePlus Nord,smartphones,27399.0,premium
+417,flipkart,"POCO M8 (Glacial Blue, 128 GB)",POCO,smartphones,19999.0,premium
+418,flipkart,"POCO C85 5G (Mystic Purple, 128 GB)",POCO,smartphones,14499.0,mid-range
+419,flipkart,"Samsung M06 5G (Sage Green, 128 GB)",Samsung,smartphones,16199.0,mid-range
+420,flipkart,"Infinix GT 30 5G+ Pulse Green 128 (Pulse Green, 128 GB)",Infinix GT,smartphones,21999.0,premium
+421,flipkart,"Ai+ Pulse 2 (Blue, 64 GB)",Ai+ Pulse,smartphones,10499.0,budget
+422,flipkart,"REDMI 15 5G (Sandy Purple, 128 GB)",REDMI,smartphones,19460.0,mid-range
+423,flipkart,"POCO C81x (Ice Blue, 64 GB)",POCO,smartphones,10999.0,budget
+424,flipkart,"OnePlus Nord CE6 Lite (Hyper Black, 128 GB)",OnePlus Nord,smartphones,25000.0,premium
+425,flipkart,"realme P4R 5G (Lavender Glare, 128 GB)",realme,smartphones,20999.0,premium
+426,flipkart,"POCO M8 (Frost Silver, 128 GB)",POCO,smartphones,19999.0,premium
+427,flipkart,"realme P4 Lite 5G (Mosaic Green, 128 GB)",realme,smartphones,15499.0,mid-range
+428,flipkart,"MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 128 GB)",MOTOROLA Edge,smartphones,22999.0,premium
+429,flipkart,"realme P4 Lite 5G (Mosaic Green, 64 GB)",realme,smartphones,13999.0,budget
+430,flipkart,"MOTOROLA g06 power (Pantone Laurel Oak, 64 GB)",MOTOROLA,smartphones,12999.0,budget
+431,flipkart,"realme P4x 5G (Matte Silver, 128 GB)",realme,smartphones,19499.0,premium
+432,flipkart,"vivo T5x 5G (Cyber Green, 128 GB)",vivo,smartphones,22999.0,premium
+433,flipkart,"Apple iPhone 15 (Black, 128 GB)",Apple iPhone,smartphones,57900.0,premium
+434,flipkart,"POCO C81x (Crystal Black, 64 GB)",POCO,smartphones,10999.0,budget
+435,flipkart,"MOTOROLA g37 (PANTONE Capri, 64 GB)",MOTOROLA,smartphones,14999.0,mid-range
+436,flipkart,"MOTOROLA g37 (PANTONE Nautical Blue, 64 GB)",MOTOROLA,smartphones,14999.0,mid-range
+437,flipkart,"MOTOROLA g06 power (Pantone Tendril, 64 GB)",MOTOROLA,smartphones,12999.0,budget
+438,flipkart,"realme P4 Lite (Beach Gold, 64 GB)",realme,smartphones,11499.0,budget
+439,flipkart,"MOTOROLA g37 power (PANTONE Nautical Blue, 128 GB)",MOTOROLA,smartphones,15999.0,mid-range
+440,flipkart,"MOTOROLA g37 (PANTONE Impenetrable, 64 GB)",MOTOROLA,smartphones,14999.0,mid-range
+441,flipkart,"MOTOROLA g24 Power (Ink blue, 128 GB)",MOTOROLA,smartphones,10999.0,budget
+442,flipkart,"MOTOROLA g06 power (Pantone tapestry, 64 GB)",MOTOROLA,smartphones,12999.0,budget
+443,flipkart,"Samsung M06 5G (Sage Green, 128 GB)",Samsung,smartphones,12725.0,budget
+444,flipkart,"Ai+ Pulse 2 (Purple, 64 GB)",Ai+ Pulse,smartphones,10499.0,budget
+445,flipkart,"I Kall Z10 Smartphone- 6.53inch HD Display with 5000mAh Battery, 20MP Rear Camera (Orange, 64 GB)",I Kall,smartphones,7699.0,budget
+446,flipkart,"vivo T5x 5G (Cyber Green, 256 GB)",vivo,smartphones,26999.0,premium
+447,amazon,OnePlus 13 Smarter with OnePlus AI Lifetime Display Warranty 12GB RAM 256GB Storage Black Eclipse Official Smartphone for BGMS 2025,OnePlus,smartphones,57998.0,premium
+448,amazon,"POCO C85x 5G Smartphone, Elite Black, 6.9 Inch Display, 32MP Dual AI Camera, 6300mAh Battery, 64GB Storage, 4GB RAM, Android 16",POCO,smartphones,12990.0,budget
+449,amazon,"Samsung Galaxy A06 (Black, 4GB RAM, 64GB Storage) 50 MP Main Camera Upto 8GB RAM with RAM Plus MediaTek Helio G85 5000 mAh Battery Knox Vault: Security & Privacy Fingerprint Sensor",Samsung Galaxy,smartphones,10093.0,budget
+450,amazon,"iQOO Z11x 5G (Prismatic Green, 6GB RAM, 128 GB Storage) Dimensity 7400-Turbo Processor 7200 mAh Battery 4K Video Recording Front & Back IP68 & IP69+ Powered by OriginOS 6",iQOO,smartphones,22999.0,premium
+451,amazon,"Samsung Galaxy F06 5G (Bahama Blue, 128 GB) (6 GB RAM)",Samsung Galaxy,smartphones,14899.0,mid-range
+452,amazon,"Samsung Galaxy A07 LTE (Green, 4GB RAM, 64GB Storage) 50MP Dual Camera 6.7 Inch HD+ Display 90Hz Refresh Rate MediaTek Helio G99 (6nm) IP54 6 Gen OS Upgrade and Security Update",Samsung Galaxy,smartphones,10499.0,budget
+453,amazon,"iQOO 15R (Triumph Silver, 12GB RAM, 512GB Storage) Snapdragon 8 Gen 5 Processor India’s Slimmest Smartphone in 7600mAh Battery* Segment's Most Stable 144FPS Gaming*",iQOO,smartphones,61999.0,premium
+454,amazon,"POCO M7 Plus 5G, Carbon Black (6GB, 128GB)",POCO,smartphones,16790.0,mid-range
+455,amazon,"OPPO K14x 5G Smartphone, 6GB RAM, 128GB Storage, ICY Blue, Dual Camera, 48-Month Fluency Protection",OPPO,smartphones,18180.0,mid-range
+456,amazon,"realme narzo 100 Lite 5G (Frost Silver,4GB+128GB) 7000mAh Titan Battery 4 Years, Zero Lag 144 Hz Ultra Smooth Display 6 nm Octa-core 5G Chipset Color Pop Design VC Cooling",realme narzo,smartphones,15999.0,mid-range
+457,amazon,"REDMI A7 Pro 5G (Mist Blue, 4GB RAM,128GB Storage) Segment's Fastest Processor Segment's Largest Battery Segment's Largest & Smoothest 6.9in 120Hz Display",REDMI,smartphones,13999.0,budget
+458,amazon,OnePlus Nord 6 8GB+256GB Fresh Mint Snapdragon 8s Gen 4 Segment's First Stable 165FPS Gaming Segment's Largest 9000mAh Battery Most Complete IP Rating Personalized AI,OnePlus Nord,smartphones,42999.0,premium
+459,amazon,"realme C71 4G Smartphone 6GB+128GB,6.745 inch Screen, 90Hz Eye Comfort Display, 6300mAh Battery, 37MP Cameras, Unisoc T7250 Chip, IP54, Obsidian Black",realme,smartphones,13999.0,budget
+460,amazon,"REDMI A7 Pro 5G (Black, 4GB RAM, 64GB Storage) Segment's Fastest Processor Segment's Largest Battery Segment's Largest & Smoothest 6.9in 120Hz Display",REDMI,smartphones,12999.0,budget
+461,amazon,"Lava Bold N2 (Siachen White, 4 GB RAM, 64 GB Storage) 13MP AI Dual Rear Camera Largest 6.75"" HD+ Display 5000 mAh Battery & 10W Charging IP64 Water & Dust Proof Charger & Phone-Case in Box",Lava Bold,smartphones,9499.0,budget
+462,amazon,"Samsung Galaxy M06 5G Mobile (Sage Green, 4GB RAM, 128GB Storage) MediaTek Dimensity 6300 AnTuTu 623K+ 12 5G Bands 25W Fast Charging 4 Gen OS Upgrades 50MP Camera Without Charger",Samsung Galaxy,smartphones,13999.0,budget
+463,amazon,"vivo T5x 5G (Cyber Green, 6GB RAM, 128GB Storage) 50MP AI Dual Camera 32MP Selfie 6.76"" FHD+ Display 7200mAh Battery Dimensity 7400-Turbo Processor Fast Charging Dual SIM Smartphone",vivo,smartphones,22499.0,premium
+464,amazon,"realme C71 4G Smartphone Obsidian Black 6GB+128GB,6.745 inch Screen, 90Hz Eye Comfort Display, 6300mAh Battery, 37MP Cameras, Unisoc T7250 Chip, IP54",realme,smartphones,13999.0,budget
+465,amazon,"Samsung Galaxy F07 (Green, 64 GB) (4 GB RAM)",Samsung Galaxy,smartphones,10022.0,budget
+466,amazon,"Samsung Galaxy M56 5G Mobile (Black, 8GB RAM, 128GB Storage) Segment Slimmest Gorilla Glass Victus+ 10 Bit HDR Video 50MP Camera AI Vapour Cooling Chamber Lag-free Gaming Without Charger",Samsung Galaxy,smartphones,23499.0,premium
+467,amazon,"REDMI A7 Pro 5G (Mist Blue, 4GB RAM, 64GB Storage) Segment's Fastest Processor Segment's Largest Battery Segment's Largest & Smoothest 6.9in 120Hz Display",REDMI,smartphones,12999.0,budget
+468,amazon,"realme NARZO 80 Pro 5G (Speed Silver,8GB+256GB) Segment's 1st MediaTek Dimensity 7400 Chipset 6000mAh Titan Battery + 80W Ultra Charge 4500nits HyperGlow Esports Display IP69 Waterproof",realme NARZO,smartphones,23999.0,premium
+469,amazon,"Samsung Galaxy M36 5G Mobile (Serene Green, 6GB RAM, 128GB Storage) Google Gemini Gorilla Glass Victus+ 7.7mm AI Enhanced 50MP OIS Triple Camera Nightography Lag-free Gaming Without Charger",Samsung Galaxy,smartphones,18999.0,mid-range
+470,amazon,"iQOO Z10R 5G (Moonstone, 12GB RAM, 256GB Storage) 32MP 4K Selfie Camera Quad-Curved AMOLED Display Dimensity 7400 Processor with 750K+ AnTuTu",iQOO,smartphones,26999.0,premium
+471,amazon,"realme NARZO 90x 5G (Flash Blue 2026, 6GB+128GB) 7000mAh + 60W Biggest Battery & Fastest Charging in the Segment* 144Hz Bright Display Sony 50MP AI Rear Camera 400% Ultra Boom Speaker",realme NARZO,smartphones,18999.0,mid-range
+472,amazon,"Samsung Galaxy M17 5G Mobile (Sapphire Black, 4GB RAM, 128GB Storage) 50MP OIS Triple Camera Gorilla Glass Victus IP54 6 Gen OS Upgrades AI Gemini Live Lag-Free Gaming Without Charger",Samsung Galaxy,smartphones,14499.0,mid-range
+473,amazon,"iQOO Z10 Lite 5G (Titanium Blue 2026, 4GB RAM, 64GB Storage)",iQOO,smartphones,14999.0,mid-range
+474,amazon,"Samsung Galaxy F06 5G, Lit Voilet (6GB, 128GB)",Samsung Galaxy,smartphones,11000.0,budget
+475,amazon,"realme NARZO 80 Lite 4G (Beach Gold 2026, 4GB+64GB) 6300mAh Segment's Biggest Battery 7.94mm Slim Design 300% Ultra Volume Pulse Light: 9 Colors, 5 Glow Modes Ai Assist",realme NARZO,smartphones,11499.0,budget
+476,amazon,"Samsung Galaxy M17 5G Mobile (Moonlight Silver, 4GB RAM, 128GB Storage) 50MP OIS Triple Camera Gorilla Glass Victus IP54 6 Gen OS Upgrades AI Gemini Live Lag-free Gaming Without Charger",Samsung Galaxy,smartphones,14499.0,mid-range
+477,amazon,"iQOO Z10 Lite 5G (Cyber Green 2026, 4GB RAM, 64GB Storage)",iQOO,smartphones,14999.0,mid-range
+478,amazon,"Samsung Galaxy M07 Mobile (Black, 4GB RAM, 64GB Storage) MediaTek Helio G99 AnTuTu 624K IP54 50MP Camera 7.6mm Slim 5000mAh Battery 25W Fast Charging 6 Gen OS Upgrades Without Charger",Samsung Galaxy,smartphones,9999.0,budget

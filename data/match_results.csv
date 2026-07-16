@@ -1,0 +1,5 @@
+amazon_product_id,flipkart_product_id,confidence_score,amazon_name,flipkart_name,category
+454,413,70.0,"POCO M7 Plus 5G, Carbon Black (6GB, 128GB)","POCO M7 Plus 5G (Carbon Black, 128 GB)",smartphones
+465,399,65.88235294117646,"Samsung Galaxy F07 (Green, 64 GB) (4 GB RAM)","Samsung Galaxy F06 5G (Lit Violet, 64 GB)",smartphones
+474,399,66.66666666666667,"Samsung Galaxy F06 5G, Lit Voilet (6GB, 128GB)","Samsung Galaxy F06 5G (Lit Violet, 64 GB)",smartphones
+159,105,69.91869918699187,Dot & Key Vitamin C + E Sorbet Super Bright Moisturizer For Face Vitamin C Face Moisturizer Reduces Skin Dullness Oil Free & Lightweight For All Skin Types 60Ml,Dot & Key Vitamin C + E Sorbet Super Bright Moisturizer For Face Reduces Skin Dullness,moisturizer
