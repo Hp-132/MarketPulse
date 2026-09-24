@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Env / secrets
+.env
+.env.*
+*.local
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unused/duplicate DB
+database/marketpulse.db
+
+# Handoff/internal docs, bad rows, duplicate data file (not for the public repo)
+/PROJECT_CONTEXT.md
+/invalid_rows.csv
+/frontend_data.json

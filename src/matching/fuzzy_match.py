@@ -15,9 +15,7 @@ import pandas as pd
 from rapidfuzz import fuzz
 
 
-# ---------------------------------------------------------------------------
-# Schema helpers
-# ---------------------------------------------------------------------------
+
 
 _CREATE_PRODUCT_MATCHES = """
 CREATE TABLE IF NOT EXISTS product_matches (
@@ -56,9 +54,7 @@ def _ensure_schema(conn: sqlite3.Connection) -> None:
         )
 
 
-# ---------------------------------------------------------------------------
-# Core matching logic
-# ---------------------------------------------------------------------------
+
 
 def _brands_compatible(brand_a: object, brand_b: object) -> bool:
     """
@@ -99,9 +95,7 @@ def match_products(
     try:
         _ensure_schema(conn)
 
-        # ------------------------------------------------------------------
-        # Load products
-        # ------------------------------------------------------------------
+        
         products = pd.read_sql_query(
             "SELECT product_id, source, product_name, brand, category FROM products",
             conn,
@@ -121,9 +115,7 @@ def match_products(
             zip(existing["amazon_product_id"], existing["flipkart_product_id"])
         )
 
-        # ------------------------------------------------------------------
-        # Fuzzy matching — iterate per category for efficiency
-        # ------------------------------------------------------------------
+        
         match_records: list[dict] = []
 
         categories = set(amazon_df["category"].dropna()) & set(
@@ -174,9 +166,7 @@ def match_products(
             ],
         )
 
-        # ------------------------------------------------------------------
-        # Insert novel pairs
-        # ------------------------------------------------------------------
+        
         cur = conn.cursor()
         matches_saved = 0
 
